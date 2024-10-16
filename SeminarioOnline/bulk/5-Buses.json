@@ -1,0 +1,186 @@
+[
+    {
+        "categoria": "5",
+        "pregunta": "¿En qué lugar el transporte colectivo puede usar las luces altas?",
+        "respuestas": [
+            {"texto": "En carreteras", "correcto": false},
+            {"texto": "Al llegar a un pueblo", "correcto": false},
+            {"texto": "Cualquiera", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Con qué medidas de seguridad se sugiere debe contar el transporte escolar?",
+        "respuestas": [
+            {"texto": "Sirenas, Dayco, GPS", "correcto": false},
+            {"texto": "Rotulación de identificación, puertas cerradas, ayudante del conductor", "correcto": true},
+            {"texto": "Horario de trabajo, teléfonos de emergencia.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "El Mínimo de concentración de alcohol en la sangre de conductores de buses es:",
+        "respuestas": [
+            {"texto": "0.0 gr de alcohol", "correcto": true},
+            {"texto": "0.6 gr de alcohol", "correcto": false},
+            {"texto": "0.4 gr de alcohol", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Por dónde deberá circular en vías de dos o más carriles con un mismo sentido de circulación el transporte de pasajeros?",
+        "respuestas": [
+            {"texto": "Carril izquierdo.", "correcto": false},
+            {"texto": "Carril derecho", "correcto": true},
+            {"texto": "En cualquier carril.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Qué carril debe utilizar antes de ingresar a una rotonda para retornar?",
+        "respuestas": [
+            {"texto": "Permanecer en mismo carril", "correcto": false},
+            {"texto": "Pasarse al carril de centro", "correcto": true},
+            {"texto": "Cambiarse al carril izquierdo.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Quién tiene la preferencia cundo usted va girar a la izquierda y en sentido contrario circula otro vehículo?",
+        "respuestas": [
+            {"texto": "El que llega primero.", "correcto": false},
+            {"texto": "El que continúa sobre la vía por la cual circula.", "correcto": true},
+            {"texto": "El transporte de carga sobre el vehículo liviano.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Qué debe hacer el trasporte de personas al cambiar de carril?",
+        "respuestas": [
+            {"texto": "Cambiarse sin problemas él tiene preferencia", "correcto": false},
+            {"texto": "Solo los buses grandes pueden entrar en cualquier momento", "correcto": false},
+            {"texto": "Todos tienen que seguir lo que señala la ley, señalizar y esperar.", "correcto": true}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Qué categorías en la licencia indican la habilitación para trasporte de personas siempre que no sea taxi?:",
+        "respuestas": [
+            {"texto": "Categoría 1,2", "correcto": false},
+            {"texto": "Categoría 5 A, 6 A,4 A", "correcto": true},
+            {"texto": "Cualquiera de las categorías 6 B, 5 B, 4 B", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿En qué momento debo abrir la puerta de descenso a los pasajeros?",
+        "respuestas": [
+            {"texto": "Al entrar en la bahía de la parada", "correcto": false},
+            {"texto": "Hasta que detengo la unidad y reviso por los retrovisores", "correcto": true},
+            {"texto": "Cualquiera de los dos", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿A qué velocidad debe desplazarse en una zona escolar con estudiantes presentes?",
+        "respuestas": [
+            {"texto": "25 kilómetros por hora (Kmh)", "correcto": true},
+            {"texto": "80 kilómetros por hora (Kmh)", "correcto": false},
+            {"texto": "60 kilómetros por hora (Kmh)", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Qué haría si descendiendo una pendiente en carretera, le fallan los frenos?",
+        "respuestas": [
+            {"texto": "Avisar a los conductores con la bocina (pito).", "correcto": false},
+            {"texto": "Reducir velocidad al bajar los cambios.", "correcto": true},
+            {"texto": "Si es necesario orillarme a un barranco para detenerme o salir a un espacio abierto", "correcto": false},
+            {"texto": "Todas las anteriores", "correcto": false},
+            {"texto": "Ninguna de las anteriores.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Cómo es La distancia de frenado de un vehículo liviano con respecto a un vehículo pesado?",
+        "respuestas": [
+            {"texto": "Más corta.", "correcto": false},
+            {"texto": "Más larga", "correcto": true},
+            {"texto": "Iguales", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Qué medidas de seguridad se debe tomar antes de abandonar de la bahía?",
+        "respuestas": [
+            {"texto": "Mirar el retrovisor izquierdo, verificar que los pasajeros ingresaron y entrar rápido", "correcto": false},
+            {"texto": "Revisar retrovisores y el frente de la unidad , que las puertas estén cerradas y que el trafico me permita ingresar", "correcto": true},
+            {"texto": "Abandonar la bahía lo más pronto posible.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Bajo qué condiciones puede conducir con las puertas abiertas?",
+        "respuestas": [
+            {"texto": "Cuando lleve exceso de pasajeros", "correcto": false},
+            {"texto": "Al bajar y subir pasajeros", "correcto": true},
+            {"texto": "No puede circular con puertas abiertas", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿En qué lugares puedo subir o bajar pasajeros?",
+        "respuestas": [
+            {"texto": "En cualquier lugar", "correcto": false},
+            {"texto": "En paradas ó bahías", "correcto": true},
+            {"texto": "Donde el pasajero solicite parada", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Cuándo debo cerrar las puertas?",
+        "respuestas": [
+            {"texto": "Antes de iniciar la marcha", "correcto": true},
+            {"texto": "Durante la marcha", "correcto": false},
+            {"texto": "Antes de estacionarme", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Qué tipo de infracción se aplica por abordar pasajeros fuera de las paradas?",
+        "respuestas": [
+            {"texto": "Peligrosas", "correcto": false},
+            {"texto": "De mayor peligrosidad", "correcto": true},
+            {"texto": "Violaciones a las normas de admisión al tráfico.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Qué tipo de infracción específica, se aplica al transporte colectivo que circula con las puertas abiertas?",
+        "respuestas": [
+            {"texto": "Peligrosas", "correcto": false},
+            {"texto": "De mayor peligrosidad", "correcto": true},
+            {"texto": "Violaciones a las normas de admisión al tráfico.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Qué revisión interna básica debo hacer de la unidad de servicio de pasajeros?",
+        "respuestas": [
+            {"texto": "Puertas, escaleras, las manijas y barras, estado del piso, salidas de emergencia, asientos", "correcto": true},
+            {"texto": "Basta hacer la revisión externa para dar buen servicio", "correcto": false},
+            {"texto": "La pintura y rotulación de la unidad son básicas", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "5",
+        "pregunta": "¿Qué precauciones e indicaciones debe tener el conductor del bus en las paradas al subir pasajeros?",
+        "respuestas": [
+            {"texto": "Usar bahía, abrir la puerta hasta haberse detenido, organice el ingreso de las personas de manera cortés.", "correcto": true},
+            {"texto": "Atender uno a uno a los pasajeros, Indique el riesgo de paso y huella, cierre las puertas.", "correcto": false},
+            {"texto": "Arranque lentamente, verifique adelante la unidad, incorpórese al tráfico sin causar caos, adentro y afuera del autobús.", "correcto": false},
+            {"texto": "Todas las anteriores", "correcto": false},
+            {"texto": "Ninguna de las anteriores", "correcto": false}
+        ]
+    }
+]

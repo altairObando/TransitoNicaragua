@@ -1,0 +1,688 @@
+[
+  {
+    "categoria": "3",
+    "pregunta": "¿Cuáles de estos elementos de seguridad activa son exigidos en la motocicleta?",
+    "respuestas": [
+      {
+        "texto": "Sistema de freno, llantas, espejos, dirección y suspensión.",
+        "correcto": true
+      },
+      { "texto": "Luces, tricos, enfriamiento", "correcto": false },
+      { "texto": "Triángulos y extinguidor", "correcto": false }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Qué revisa un buen conductor de una motocicleta diariamente?",
+    "respuestas": [
+      {
+        "texto": "Estado de las llantas, freno delantero y trasero, presión de aire.",
+        "correcto": false
+      },
+      {
+        "texto": "Ajuste de espejo retrovisores, fugas de aceite o gasolina, cadena y estado del sproquer.",
+        "correcto": true
+      },
+      {
+        "texto": "Frenos, luces delanteras altas y baja, pide vías luces laterales",
+        "correcto": false
+      },
+      { "texto": "Todas las anteriores", "correcto": false },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿De qué forma se realiza un viaje seguro en una motocicleta?",
+    "respuestas": [
+      {
+        "texto": "Realizando un chequeo minucioso antes del viaje a su vehículo.",
+        "correcto": false
+      },
+      {
+        "texto": "Acatando las leyes y normas de tránsito respetando la velocidad.",
+        "correcto": false
+      },
+      {
+        "texto": "Planificando su ruta de antemano, evitando las maniobras impudentes.",
+        "correcto": false
+      },
+      { "texto": "Todas las anteriores.", "correcto": true },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Cuál es la distancia de seguridad que usted debe llevar para evitar colisionar, con un vehículo que circula adelante?",
+    "respuestas": [
+      { "texto": "Aplica la regla o método de dos segundas", "correcto": true },
+      {
+        "texto": "5 metros por cada diez kilómetro por hora",
+        "correcto": false
+      },
+      {
+        "texto": "10 metros por cada diez kilómetro por hora",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Que considera usted que es el punto ciego?",
+    "respuestas": [
+      {
+        "texto": "Los espacios no cubiertos por los espejos retrovisores.",
+        "correcto": true
+      },
+      { "texto": "Vehículos que circulan al lado.", "correcto": false },
+      {
+        "texto": "Al vehículo que nosotros dejamos de ver por la distancia",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Qué debe hacer cuando es deslumbrado por luces altas de otro vehículo en sentido contrario?",
+    "respuestas": [
+      { "texto": "Continuar la marcha.", "correcto": false },
+      {
+        "texto": "Reducir la Velocidad y ver la línea blanca de borde, detenerse a la orilla mientras recupera la visión.",
+        "correcto": true
+      },
+      {
+        "texto": "Aumentar la velocidad para salir rápido de la situación",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Qué debe hacer si va conduciendo en moto y su celular repica?",
+    "respuestas": [
+      {
+        "texto": "Detener la marcha, orillarse a contestar y terminada la llamada continuar su circulación.",
+        "correcto": true
+      },
+      {
+        "texto": "Contestar con los auriculares instalados al teléfono y continuar circulando.",
+        "correcto": false
+      },
+      {
+        "texto": "Contestar con una mano y bajar la velocidad",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Debe usted soltar el manubrio a una mano cuando conduce una motocicleta?",
+    "respuestas": [
+      {
+        "texto": "Es correcto cuando la vía está despejada",
+        "correcto": false
+      },
+      { "texto": "Va depender de mis destrezas", "correcto": false },
+      {
+        "texto": "No debo hacerlo, porque puedo perder el control",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Cómo debe hacer uso de los frenos para evitar caerse, cuando conduce a alta velocidad en la moto?.",
+    "respuestas": [
+      {
+        "texto": "Uso el freno delantero suavemente e inmediatamente uso el freno trasero gradualmente.",
+        "correcto": true
+      },
+      {
+        "texto": "Frenar a tope con los dos frenos al mismo tiempo para detenerme.",
+        "correcto": false
+      },
+      {
+        "texto": "Frenar solo con el freno trasero para no caerme.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Cómo garantizo ver y ser visto cuando conduces la motocicleta?",
+    "respuestas": [
+      { "texto": "Circulando por mi derecha", "correcto": false },
+      {
+        "texto": "Hago uso de la bocina y circulo con luz baja encendida",
+        "correcto": true
+      },
+      {
+        "texto": "Circulando cercano a la línea blanca del centro",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Qué elementos principales incluyen el estado mecánico de la motocicleta?",
+    "respuestas": [
+      {
+        "texto": "Cables, manecillas, espejos, cadena, barras y manubrio, amortiguadores",
+        "correcto": false
+      },
+      {
+        "texto": "Luces, cadena, tensión de los rayos, llantas en buen estado",
+        "correcto": false
+      },
+      {
+        "texto": "Frenos delanteros y trasero, descansos de los pies y apoyos de la moto",
+        "correcto": false
+      },
+      { "texto": "Todas las anteriores", "correcto": true },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Cuáles de estos elementos son indispensables para el motorizado?",
+    "respuestas": [
+      {
+        "texto": "Botas, guantes, Pantalón grueso., Casco con visera.",
+        "correcto": true
+      },
+      { "texto": "Rodilleras, manos libres, bocina", "correcto": false },
+      { "texto": "Mochila, mangas para el sol.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Cuál debe de ser la postura del cuerpo al conducir la moto?",
+    "respuestas": [
+      {
+        "texto": "No hay una postura determinada, que me sienta bien es todo",
+        "correcto": false
+      },
+      { "texto": "Basta que alcance los pedales y mandos", "correcto": false },
+      {
+        "texto": "Cuerpo relajado, manos y brazos al alcance de las manecillas, pies bien colocados en los estribos",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Cuál es el método para tomar una curva hacia la izquierda en motocicleta?",
+    "respuestas": [
+      {
+        "texto": "Hacerse al centro de la carretera, entrar al centro del carril y acelerar",
+        "correcto": false
+      },
+      {
+        "texto": "Bajar velocidad, cargarse hacia la derecha, ver al centro del carril y acelerar al abandonar la curva.",
+        "correcto": true
+      },
+      {
+        "texto": "Mantenerse todo el tiempo pegado a la derecha de la curva.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Cuál de los dos ocupantes de la motocicleta va menos expuesto?",
+    "respuestas": [
+      {
+        "texto": "Ambos están igual de expuestos por eso deben de usar los mismos dispositivos de seguridad.",
+        "correcto": true
+      },
+      {
+        "texto": "El pasajero por que el conductor se puede aferrar al manubrio de la moto",
+        "correcto": false
+      },
+      {
+        "texto": "Solamente los niños muy pequeños están expuestos.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Cuantos pasajeros están permitidos en una motocicleta?",
+    "respuestas": [
+      { "texto": "Solamente uno", "correcto": false },
+      {
+        "texto": "Solamente uno y debe de ser mayor de 8 años",
+        "correcto": false
+      },
+      {
+        "texto": "Pueden ir dos pasajeros, siempre que el otro sea un niño",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Qué se debe de hacer cuando conducimos motos en superficies mojadas o húmedas?",
+    "respuestas": [
+      {
+        "texto": "Reducir la velocidad, aplicar los cambios intermedios y si toca frenar hacerlo muy suavemente",
+        "correcto": true
+      },
+      {
+        "texto": "Frenar solamente con el freno trasero y con cambios bajos",
+        "correcto": false
+      },
+      {
+        "texto": "Va depender de la llantas ya que siempre dependerá de los frenos",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Qué medidas de seguridad debo adoptar para conducir de noche en motocicleta?",
+    "respuestas": [
+      {
+        "texto": "Asegurarme que anda en buen estado la luz alta",
+        "correcto": false
+      },
+      {
+        "texto": "Sistema de luces completo, ropa clara, y circular a velocidades moderadas.",
+        "correcto": true
+      },
+      {
+        "texto": "Usar siempre solamente el carril derecho par que me vean",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Por qué no es seguro que el casco de seguridad no tenga sujetador de barbilla?",
+    "respuestas": [
+      {
+        "texto": "El viento y la velocidad me lo puede quitar de improvisto",
+        "correcto": false
+      },
+      {
+        "texto": "Porque en un impacto el casco de seguridad se cae y quedo expuesto a lesiones",
+        "correcto": true
+      },
+      {
+        "texto": "Porque el agente está autorizado a multarme si no lo abrocho.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "3",
+    "pregunta": "¿Por dónde debe circular siempre La motocicleta?",
+    "respuestas": [
+      {
+        "texto": "Por la banda derecha y al centro del carril",
+        "correcto": true
+      },
+      { "texto": "Es seguro en cualquier carril", "correcto": false },
+      {
+        "texto": "En medio de los carriles para avanzar más rápido",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Por dónde debe aventajar el conductor de una motocicleta?",
+    "respuestas": [
+      { "texto": "Solamente por el carril derecho.", "correcto": false },
+      { "texto": "Por el carril Izquierdo.", "correcto": true },
+      { "texto": "En el arcén de la carretera", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Qué dispositivo de seguridad exige la ley al conductor y acompañante de una motocicleta?",
+    "respuestas": [
+      {
+        "texto": "Casco en su cabeza abrochado él y su acompañante",
+        "correcto": true
+      },
+      { "texto": "Solo debe usarlo él y no su pasero", "correcto": false },
+      { "texto": "Cinturón de seguridad para ambos", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Qué reglas básicas de convivencia debe cumplir el motorizado por seguridad de él y tranquilidad de su familia?",
+    "respuestas": [
+      {
+        "texto": "Respetar las señales de Tránsito, no conducir en embriaguez, en exceso de velocidad",
+        "correcto": true
+      },
+      {
+        "texto": "Manejar con cortesía, no invadir carril, evitar las maniobras imprudentes.",
+        "correcto": true
+      },
+      {
+        "texto": "Manejar con responsabilidad. llevar solamente un pasajero.",
+        "correcto": true
+      },
+      { "texto": "Todas las anteriores.", "correcto": true },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Qué método defensivo debe aplicar el conductor de una motocicleta para evitar los accidentes de tránsito?",
+    "respuestas": [
+      {
+        "texto": "Reconocer el peligro, entender la defensa y actuar a tiempo.",
+        "correcto": true
+      },
+      {
+        "texto": "Aplicar sus habilidades de motorizado y chequear su vehículo.",
+        "correcto": false
+      },
+      { "texto": "Ser responsable y cortes.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿En qué lugares la ley prohíbe adelantar y el motociclista debe cumplir?",
+    "respuestas": [
+      {
+        "texto": "En curvas, en puentes. en pendientes y en rotondas.",
+        "correcto": true
+      },
+      { "texto": "En intersecciones y líneas continuas", "correcto": true },
+      {
+        "texto": "Donde las señales de tránsito lo indiquen.",
+        "correcto": true
+      },
+      { "texto": "Todas las anteriores", "correcto": true },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿En qué maniobra un conductor pierde la preferencia de paso frente al otro conductor?",
+    "respuestas": [
+      { "texto": "Cuando gire a la derecha", "correcto": false },
+      { "texto": "Cuando gire a la Izquierda", "correcto": false },
+      { "texto": "Cuando aventaja por la derecha.", "correcto": true }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Cómo sabe un conductor de motocicleta que tiene la preferencia de paso?",
+    "respuestas": [
+      {
+        "texto": "Cuando el agente de tránsito y el semáforo lo indique",
+        "correcto": true
+      },
+      { "texto": "Cuando gire a la Izquierda", "correcto": false },
+      { "texto": "Cuando aventaja por la derecha.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Qué debe de hacer si está encendida la luz verde y antes de llegar a la intersección se le proyecta la luz amarilla?",
+    "respuestas": [
+      { "texto": "Debo acelerar para pasar", "correcto": false },
+      {
+        "texto": "Reducir la velocidad y detenerme para no pasar en luz roja el semáforo.",
+        "correcto": true
+      },
+      { "texto": "Pasar con precaución.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Cuándo es correcto circular entre medio de los vehículos que están detenidos?",
+    "respuestas": [
+      { "texto": "Si es correcta para avanzar.", "correcto": false },
+      { "texto": "No es correcto hacerlo.", "correcto": true },
+      {
+        "texto": "La vía es ancha y me permite hacer la maniobra.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Qué espacio del carril debe ocupar la motocicleta al circular?",
+    "respuestas": [
+      { "texto": "Pegado a la Derecha", "correcto": true },
+      { "texto": "Pegado a la izquierda.", "correcto": false },
+      { "texto": "Al centro del carril", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿En qué periodo se tienen que pagar las multas impuestas por infracción?",
+    "respuestas": [
+      {
+        "texto": "30 días a partir de la imposición de la multa o 60 días con prorroga",
+        "correcto": true
+      },
+      { "texto": "45 días.", "correcto": false },
+      { "texto": "90 días.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿A quién le corresponde la prevención de la ocurrencia de los accidentes de tránsito?",
+    "respuestas": [
+      { "texto": "La Policía Nacional", "correcto": false },
+      { "texto": "Al Estado de Nicaragua", "correcto": false },
+      {
+        "texto": "Es un problema social y nos corresponde a todos atenderlo.",
+        "correcto": true
+      },
+      { "texto": "Todas las anteriores", "correcto": true },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Cuál es la forma correcta de tomar una curva a la derecha?",
+    "respuestas": [
+      {
+        "texto": "Pegarme a la derecha , bajar velocidad y acelerar a la salida de la curva",
+        "correcto": true
+      },
+      {
+        "texto": "Bajar velocidad, cargarme al centro de la vía y romper hacia el centro de la salida de la curva.",
+        "correcto": false
+      },
+      {
+        "texto": "Quedarme en el centro del carril todo el tiempo y acelerar a la salida",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Puede el motorizado conducir una cuadra en sentido contrario?",
+    "respuestas": [
+      {
+        "texto": "No, nunca se conduce un automotor contra la vía.",
+        "correcto": true
+      },
+      { "texto": "Si, eventualmente se puede", "correcto": false },
+      { "texto": "Solamente en casos de emergencia", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Qué reglas de giro son especiales para las motos?",
+    "respuestas": [
+      {
+        "texto": "Por su maniobrabilidad se le permite girar en U",
+        "correcto": false
+      },
+      {
+        "texto": "Ninguna regla especial, debe seguir las mismas reglas de todos",
+        "correcto": true
+      },
+      {
+        "texto": "Solo en las rotondas se le permite cambiar de carril",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Qué debe hacer el motorizado en un sitio sin señales?",
+    "respuestas": [
+      {
+        "texto": "Lo mismo que la ley señala para los conductores de vehículos de cuatro ruedas",
+        "correcto": true
+      },
+      { "texto": "Aprovechar la destreza y pasar primero", "correcto": false },
+      {
+        "texto": "Esperar a que todos pasen y después tomar el turno",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Cómo se debe incorporar el motorizado a la circulación?",
+    "respuestas": [
+      {
+        "texto": "Debe seguir el paso a paso del articulo 95",
+        "correcto": true
+      },
+      {
+        "texto": "Puede entrar a pesar de q circulen otros vehículos siempre que sea seguro",
+        "correcto": false
+      },
+      { "texto": "Depende de la pericia del motorizado", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Está permitido a los motociclistas circular en paralelo?",
+    "respuestas": [
+      {
+        "texto": "Si, de esa manera el tráfico es más fluido.",
+        "correcto": false
+      },
+      {
+        "texto": "No puede, todos los automotores deben circular uno a la vez en el carril",
+        "correcto": true
+      },
+      { "texto": "No puede porque obstruyen la circulación", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Por qué debe realizar señales manuales el motorizado?",
+    "respuestas": [
+      {
+        "texto": "Basta con las luces direccionales de la motocicleta",
+        "correcto": false
+      },
+      {
+        "texto": "De esa forma se garantiza que los otros conductores sepan que maniobra va a realizar",
+        "correcto": true
+      },
+      {
+        "texto": "Debe hacer las señales de brazo solo cuando alguien viene detrás de él.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Qué debe hacer el motorizado cuando llueve?",
+    "respuestas": [
+      {
+        "texto": "Ponerse la chaqueta, bajar la visera del casco, encender las luces y continuar",
+        "correcto": true
+      },
+      {
+        "texto": "Parar la marcha y busca un lugar seguro para acampar la lluvia",
+        "correcto": false
+      },
+      {
+        "texto": "Solamente que sea de noche debe detenerse.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Qué debo de hacer al circular en moto para cambiar de carril?",
+    "respuestas": [
+      {
+        "texto": "Aprovechar la velocidad y capacidad de maniobra para entrar rápido",
+        "correcto": false
+      },
+      {
+        "texto": "Señalizar, ver por el espejo y entrar rápido",
+        "correcto": false
+      },
+      {
+        "texto": "Señalizar, calcular velocidad y distancia y respetar la prioridad de carril.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Cómo debe de ser la maniobra de aventajar en la motocicleta?",
+    "respuestas": [
+      {
+        "texto": "Hay reglas especiales que le permiten hacerlo a su manera",
+        "correcto": false
+      },
+      {
+        "texto": "Siempre que se pueda deberá hacerlo por la derecha, para eso es moto",
+        "correcto": false
+      },
+      {
+        "texto": "Por la izquierda, que no viole la ley o la señal, siguiendo los pasos como cualquier otro vehículo.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Por qué no se debe adelantar en el mismo carril a otro motociclista?",
+    "respuestas": [
+      {
+        "texto": "Está prohibido por la ley, para eso hay una metodología",
+        "correcto": false
+      },
+      {
+        "texto": "Es peligroso porque puede sorprender al otro conductor y ocasionar una colisión",
+        "correcto": true
+      },
+      {
+        "texto": "Es una conducta irresponsable y altamente peligrosa.",
+        "correcto": true
+      },
+      { "texto": "Todas las anteriores", "correcto": true },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 3,
+    "pregunta": "¿Por qué el motorizado no puede adelantar en intersecciones?",
+    "respuestas": [
+      {
+        "texto": "Ningún vehículo debe adelantar en intersecciones, la ley lo prohíbe",
+        "correcto": true
+      },
+      {
+        "texto": "Los motorizados pueden por ser más rápidos",
+        "correcto": false
+      },
+      {
+        "texto": "Si la moto ocupa menos espacio no hay problema",
+        "correcto": false
+      }
+    ]
+  }
+]

@@ -1,0 +1,625 @@
+[
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué debe hacer usted si su automóvil, se desvía hacia un lado cuando frena?",
+    "respuestas": [
+      {
+        "texto": "Revisar el sistema de dirección, presión de llantas y darlo alinear.",
+        "correcto": true
+      },
+      { "texto": "Bombear el pedal al frenar.", "correcto": false },
+      {
+        "texto": "Frenar con más suavidad para evitar que se haga a un lado",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿A qué se debe que su camioneta se desvía hacia un lado cuando usted frena?",
+    "respuestas": [
+      { "texto": "Severo desgaste de fricciones.", "correcto": false },
+      { "texto": "Desperfecto en el sistema de dirección.", "correcto": false },
+      { "texto": "Desgaste de llanta.", "correcto": false },
+      { "texto": "Todas las anteriores", "correcto": true },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué cosas debe revisar diario en su vehículo?",
+    "respuestas": [
+      {
+        "texto": "Nivel de aceite, nivel líquido de frenos, nivel hidráulico, batería, enfriamiento, correas",
+        "correcto": true
+      },
+      {
+        "texto": "Los vehículos nuevos no se revisan diariamente",
+        "correcto": false
+      },
+      {
+        "texto": "Los pistones, válvulas, líquido de frenos.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿En qué orden se realizan los ajustes previos que debe hacer al subir al vehículo?",
+    "respuestas": [
+      {
+        "texto": "Espejos retrovisores, cinturón de seguridad, Reposa cabezas, asiento.",
+        "correcto": false
+      },
+      {
+        "texto": "Cinturón de seguridad, espejos retrovisores, asiento, reposa cabeza",
+        "correcto": true
+      },
+      {
+        "texto": "Asiento, reposa cabeza, espejos retrovisores, cinturón de seguridad",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuáles son elementos de seguridad activa en la conducción?",
+    "respuestas": [
+      {
+        "texto": "Bolsa de aire, cinturón de seguridad, espejos retrovisores, parabrisas",
+        "correcto": true
+      },
+      {
+        "texto": "Llantas en buen estado, parabrisas, sistema de luces",
+        "correcto": false
+      },
+      {
+        "texto": "Un asiento con apoya-cabeza ajustado en forma apropiada",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuáles son los principales indicadores (testigos) a los que debe prestar atención en el tablero del vehículo?",
+    "respuestas": [
+      {
+        "texto": "Tacómetro, velocímetro, combustible, temperatura, carga, aceite, frenos",
+        "correcto": true
+      },
+      {
+        "texto": "Aire acondicionado, temperatura, bolsa de aire, batería, odómetro",
+        "correcto": false
+      },
+      {
+        "texto": "Manos libres, temperatura, GPS, control de volumen y frenos, odómetro",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuál es la forma correcta de comprobar que el vehículo se encuentra en neutro o punto muerto?",
+    "respuestas": [
+      {
+        "texto": "Halar y empujar la palanca de velocidades, hacia atrás y adelante y posesionarla al centro del recorrido",
+        "correcto": true
+      },
+      {
+        "texto": "Halar la palanca de velocidades, hacia izquierda y derecha y si recorre libre está en el lugar indicado",
+        "correcto": false
+      },
+      {
+        "texto": "Cualquier forma es igual, la segunda es mejor",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuáles de las siguientes afirmaciones son verdaderas en el uso de los frenos, en los vehículos livianos?",
+    "respuestas": [
+      {
+        "texto": "Los frenos ABS impiden que las ruedas se bloqueen al frenar y aseguran una frenada más eficiente.",
+        "correcto": true
+      },
+      {
+        "texto": "El consumo del líquido de frenos depende de la cantidad e intensidad de las frenadas.",
+        "correcto": true
+      },
+      {
+        "texto": "El freno hidráulico bloquea las llantas y permite detenerme en menos espacio.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿En qué circunstancias debe utilizar el freno de mano, en un vehículo liviano?",
+    "respuestas": [
+      {
+        "texto": "Al estacionarse en pendiente, Al estacionarse, Al estacionarse en bajada",
+        "correcto": true
+      },
+      {
+        "texto": "Al esperar en un semáforo, cuando fallan los frenos de servicio",
+        "correcto": false
+      },
+      { "texto": "Todas las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿En qué lugares es prohibido utilizar la bocina (pito)?",
+    "respuestas": [
+      {
+        "texto": "En hospitales, escuelas, iglesias, servicios funerarios",
+        "correcto": true
+      },
+      {
+        "texto": "En zonas comerciales, iglesias, cementerios",
+        "correcto": false
+      },
+      {
+        "texto": "En los desfiles patrios, y caminos solitarios",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuáles son las tres funciones básicas del aceite?",
+    "respuestas": [
+      { "texto": "Limpia, lubrica y ayuda al enfriamiento", "correcto": true },
+      { "texto": "Solamente lubrica las piezas del motor", "correcto": false },
+      { "texto": "Lubrica y auxilia la combustión", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué es y cuál es la función del cinturón de seguridad?",
+    "respuestas": [
+      {
+        "texto": "Un dispositivo de seguridad activa que se usa para evitar multas",
+        "correcto": false
+      },
+      {
+        "texto": "Un elemento de seguridad pasiva que evita que las personas se lesionen en una colisión",
+        "correcto": true
+      },
+      {
+        "texto": "Es un dispositivo de seguridad que se acciona solo cuando se conduce en carreteras",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuál es la función de los espejos retrovisores externos y cómo deben ajustarse?",
+    "respuestas": [
+      {
+        "texto": "Mirar cuando se va a cambiar de carril, se deben poner lo más abiertos posible para ver mejor y se observan solo en caso necesario",
+        "correcto": false
+      },
+      {
+        "texto": "Permiten una visión trasera lateral, se ajustan con un punto de referencia del vehículo y se deben revisar al menos cada 30 segundos",
+        "correcto": true
+      },
+      {
+        "texto": "Sirven para observar a los lados y se deben regular cerrados para observar lo más cerca del vehículo",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué espejo retrovisor debo usar primero al cambiar de carril?",
+    "respuestas": [
+      {
+        "texto": "Cualquiera, no es importante usar uno u otro",
+        "correcto": false
+      },
+      {
+        "texto": "El interno, es más preciso, los otros son opcionales.",
+        "correcto": false
+      },
+      {
+        "texto": "Los externos, proporcionan la presencia más cercana a nuestro vehículo",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuál es la posición de las manos que más se sugiere en el uso de las manos en el timón?",
+    "respuestas": [
+      {
+        "texto": "La posición 10-10 con el método de hale y empuje para evitar cruzar las manos",
+        "correcto": true
+      },
+      {
+        "texto": "La posición 09 y 15 sobre el eje del timón sobre todo si tiene bolsa de aire",
+        "correcto": false
+      },
+      {
+        "texto": "Cada quien lo toma como se siente más cómodo, eso garantiza pericia en el uso del timón",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué debe hacer si estaciona su vehículo en pendiente hacia abajo?",
+    "respuestas": [
+      {
+        "texto": "Girar las ruedas delantera al borde de la acera o cuneta",
+        "correcto": true
+      },
+      {
+        "texto": "Apagar el motor y ubicar el cambio en retroceso",
+        "correcto": false
+      },
+      {
+        "texto": "Dejar puesto el freno de mano o emergencia",
+        "correcto": true
+      },
+      { "texto": "Todas las anteriores", "correcto": true },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué debe hacer si estaciona el vehículo en pendiente hacia arriba?",
+    "respuestas": [
+      {
+        "texto": "Girar las ruedas delantera hacia la izquierda",
+        "correcto": false
+      },
+      { "texto": "Apagar motor y ubicar cambio en primera", "correcto": true },
+      {
+        "texto": "Dejar puesto el freno de mano o emergencia",
+        "correcto": true
+      },
+      { "texto": "Todas las anteriores", "correcto": true },
+      { "texto": "Ninguna de las anteriores.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿A qué se le llama puntos ciegos o puntos muertos en el vehículo?",
+    "respuestas": [
+      {
+        "texto": "Son los que genera la velocidad y se refiere a los detalles que se nos escapan.",
+        "correcto": false
+      },
+      {
+        "texto": "Son áreas a los lados y atrás del vehículo que no logramos ver con los retrovisores.",
+        "correcto": true
+      },
+      {
+        "texto": "Son los defectos que generan los espejos convencionales, por eso se deben cámaras de retroceso.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuál es la forma más segura de frenar a alta velocidades?",
+    "respuestas": [
+      {
+        "texto": "Siempre para frenar y evitar que el vehículo se apague se debe presionar el clutch y después el freno",
+        "correcto": false
+      },
+      {
+        "texto": "Cuando se va rápido se debe presionar el clutch, bajar un cambio y después presionar el freno",
+        "correcto": false
+      },
+      {
+        "texto": "Aplico el freno suavemente, al percibir reducción de velocidad se presiona el clutch y se aprovecha para bajar un cambio a la vez.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué conductas hacen a un buen conductor de un vehículo liviano?",
+    "respuestas": [
+      {
+        "texto": "Conduce con prudencia y hace todo lo posible por evitar accidentes",
+        "correcto": true
+      },
+      {
+        "texto": "Es considerado y amable con los demás conductores y con los peatones",
+        "correcto": true
+      },
+      { "texto": "Respeta la Ley de tránsito, es cortes", "correcto": true },
+      { "texto": "Todas las anteriores", "correcto": true },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué medidas de seguridad se deben adoptar al momento que el vehículo liviano sufre desperfecto mecánico que lo imposibilite sacarlo de la vía?",
+    "respuestas": [
+      {
+        "texto": "Activar luces laterales y llamar al mecánico",
+        "correcto": false
+      },
+      {
+        "texto": "Colocar triángulos detrás y delante del vehículo a 10 metros y luces de emergencia",
+        "correcto": true
+      },
+      {
+        "texto": "Activar luces delanteras y esperar el rescate",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué acciones contribuyen a la seguridad vial de un conductor?",
+    "respuestas": [
+      {
+        "texto": "Respetar el derecho de pase de los peatones",
+        "correcto": true
+      },
+      { "texto": "Respetar las señales de tránsito", "correcto": true },
+      {
+        "texto": "No conducir utilizando manualmente teléfonos móviles",
+        "correcto": true
+      },
+      { "texto": "Todas las anteriores", "correcto": true },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué medidas de seguridad se deben adoptar al cambiar una llanta?",
+    "respuestas": [
+      {
+        "texto": "Motor apagado, vehículo con cambio, freno de mano activado, llantas aseguradas",
+        "correcto": true
+      },
+      {
+        "texto": "Poner la señalización, ciudad 10 mts al lado de la circulación, carretera 30-50 mts",
+        "correcto": true
+      },
+      {
+        "texto": "Trabajar frente a la circulación vehicular",
+        "correcto": false
+      },
+      { "texto": "Todas las anteriores", "correcto": false },
+      { "texto": "Ninguna de las anteriores", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué tipo de zapatos son adecuados para conducir, en el uso de los pedales?",
+    "respuestas": [
+      { "texto": "Chínelas, sandalias, evitar tacones", "correcto": true },
+      {
+        "texto": "Zapatos de tacones altos, zapatos de vaquetas, tenis",
+        "correcto": false
+      },
+      {
+        "texto": "No existe un zapato específico, todo depende de las habilidades de la persona",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué debería hacer para ayudar a controlar la velocidad de su vehículo cuando desciende una pendiente prolongada?",
+    "respuestas": [
+      { "texto": "Sujetar el timón firmemente.", "correcto": false },
+      { "texto": "Utilizar freno y cambio bajo.", "correcto": true },
+      { "texto": "Seleccionar neutro.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué debería hacer usted cuando las ruedas traseras de su vehículo resbalan hacia la izquierda?",
+    "respuestas": [
+      {
+        "texto": "Girar suavemente el timón hacia la izquierda para retomar la dirección.",
+        "correcto": false
+      },
+      { "texto": "Usar el embrague y frenar firmemente.", "correcto": false },
+      { "texto": "Girar hacia la derecha.", "correcto": true }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué debería hacer usted para corregir un coletazo de las ruedas traseras?",
+    "respuestas": [
+      {
+        "texto": "No girar el volante del vehículo para nada.",
+        "correcto": false
+      },
+      {
+        "texto": "Girar el volante hacia el lado opuesto al coletazo.",
+        "correcto": true
+      },
+      {
+        "texto": "Girar el volante hacia el lado que se desplaza la cola del vehículo.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿En qué afecta la visión conducir a exceso de velocidad?",
+    "respuestas": [
+      {
+        "texto": "A la mayoría de los conductores se les cansa la vista después de conducir más o menos media hora.",
+        "correcto": false
+      },
+      { "texto": "El campo visual se reduce.", "correcto": true },
+      {
+        "texto": "Resulta más fácil percibir movimientos en la carretera.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuáles son los síntomas más comunes del cansancio?",
+    "respuestas": [
+      { "texto": "Calor y agresividad.", "correcto": false },
+      { "texto": "Dificultad para mantener la dirección.", "correcto": true },
+      { "texto": "Los párpados se cierran.", "correcto": true },
+      { "texto": "Todas las anteriores.", "correcto": true },
+      { "texto": "Ninguna de las anteriores.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué debería hacer usted ante un conductor agresivo o temerario?",
+    "respuestas": [
+      { "texto": "Hacerle saber cómo se siente.", "correcto": false },
+      {
+        "texto": "Encender y apagar sus luces delanteras repetidamente.",
+        "correcto": false
+      },
+      { "texto": "No reaccionar a la provocación.", "correcto": true }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué debería hacer usted, cuando es cegado por las luces de otro vehículo que viene en sentido contrario?",
+    "respuestas": [
+      { "texto": "Observar fijamente las luces.", "correcto": false },
+      {
+        "texto": "Acelerar para pasar rápido la situación.",
+        "correcto": false
+      },
+      {
+        "texto": "Disminuir la velocidad hasta detenerse si la ceguera fue total.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué debería hacer usted, cuando el vehículo que viene en sentido contrario le invade el carril?",
+    "respuestas": [
+      {
+        "texto": "Bajar la velocidad y hacerse a la derecha lo más pronto posible, si es posible salirse de la vía.",
+        "correcto": true
+      },
+      {
+        "texto": "Hacerme en el carril de él para evitar chocar de frente.",
+        "correcto": false
+      },
+      { "texto": "Alertar realizando cambio de luces.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "Las personas civiles (abanderados), que regulan el paso vehicular en zonas donde se realizan obras se consideran como:",
+    "respuestas": [
+      { "texto": "Reguladores de tránsito.", "correcto": true },
+      { "texto": "Inspectores de obras.", "correcto": false },
+      { "texto": "Constructores.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "La regulación vial y el control de documentos del vehículo y del conductor, le corresponde a:",
+    "respuestas": [
+      { "texto": "Seguridad Pública.", "correcto": false },
+      { "texto": "Agentes de tránsito.", "correcto": true },
+      { "texto": "Toda la Policía Nacional.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuándo es más probable que usted pierda concentración al conducir?",
+    "respuestas": [
+      {
+        "texto": "Cuando va conversando o escuchando música a alto volumen.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando viaja solo a altas horas de la noche.",
+        "correcto": true
+      },
+      { "texto": "Cuando utiliza un teléfono celular.", "correcto": true }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿En qué situación puede usted hacer uso de la bocina del vehículo?",
+    "respuestas": [
+      {
+        "texto": "Cuando saluda a otros usuarios de la vía.",
+        "correcto": false
+      },
+      {
+        "texto": "Cuando considero que otro vehículo no me ha visto o estoy en su punto ciego.",
+        "correcto": true
+      },
+      { "texto": "Cuando desea manifestar su disgusto.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuándo los conductores de vehículos deben ceder el paso a los conductores de buses?",
+    "respuestas": [
+      { "texto": "Cuando salen de la bahía.", "correcto": true },
+      {
+        "texto": "Siempre que vayan circulando por la vía.",
+        "correcto": false
+      },
+      { "texto": "Cuando cruzan las intersecciones.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuándo debe tener usted especial cuidado con los motociclistas?",
+    "respuestas": [
+      { "texto": "Todo el tiempo.", "correcto": true },
+      { "texto": "Cuando circulan sin casco.", "correcto": false },
+      { "texto": "Cuando viajan dos en la moto.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Qué debe hacer usted cuando un ciclista va adelante, y los dos van a girar a la derecha?",
+    "respuestas": [
+      { "texto": "Adelantar al ciclista antes del cruce.", "correcto": false },
+      { "texto": "Rodear al ciclista en el cruce.", "correcto": false },
+      {
+        "texto": "Se mantiene detrás del ciclista hasta que éste haya girado.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿Cuáles son las medidas de seguridad, que debe incrementar en un lugar por donde transitan carretas o carretones?",
+    "respuestas": [
+      {
+        "texto": "Conducir a velocidad baja, e ir atento en la conducción.",
+        "correcto": true
+      },
+      { "texto": "Acelerar para pasar rápido.", "correcto": false },
+      { "texto": "Pitar para que se aparten.", "correcto": false }
+    ]
+  },
+  {
+    "categoria": 4,
+    "pregunta": "¿En qué circunstancia usted detendría su vehículo sobre el paso peatonal?",
+    "respuestas": [
+      {
+        "texto": "Cuando no hay peatones esperando para cruzar.",
+        "correcto": false
+      },
+      { "texto": "Durante la noche.", "correcto": false },
+      {
+        "texto": "Cuando ello sea necesario para evitar un accidente.",
+        "correcto": true
+      }
+    ]
+  }
+]

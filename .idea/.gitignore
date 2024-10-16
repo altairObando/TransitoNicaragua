@@ -16,6 +16,7 @@ media
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/misc.xml
 
 # AWS User-specific
 .idea/**/aws.xml
@@ -48,6 +49,7 @@ atlassian-ide-plugin.xml
 # Python # 
 *.py[cod] 
 *$py.class 
+*.pyc
 
 # Distribution / packaging 
 .Python build/ 
@@ -136,3 +138,12 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+.env
+db.sqlite3
+uploads/*

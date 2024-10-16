@@ -1,0 +1,2370 @@
+[
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es accidente de tránsito, según la ley 431?",
+    "respuestas": [
+      {
+        "texto": "La colisión o los vuelcos de los vehículos en la vía.",
+        "correcto": false
+      },
+      {
+        "texto": "Un choque donde resultan personas lesionadas o muertas.",
+        "correcto": false
+      },
+      {
+        "texto": "Acción u omisión culposa cometida por cualquier conductor, pasajero o peatón en la vía pública o privada causando daños materiales, lesiones o muerte de personas.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Quiénes deben usar el Arcén?",
+    "respuestas": [
+      {
+        "texto": "Vehículos de tracción animal, bicicletas, vehículos para discapacitados y carretones halados por personas.",
+        "correcto": true
+      },
+      {
+        "texto": "Los vehículos de transporte pesado.",
+        "correcto": false
+      },
+      {
+        "texto": "Cualquier tipo de vehículo.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál de las siguientes conductas se establece como Conducción temeraria?",
+    "respuestas": [
+      {
+        "texto": "Aventajar en pendientes, curvas o puentes de forma indolente.",
+        "correcto": false
+      },
+      {
+        "texto": "Realizar o participar en competencias de velocidad ilegales.",
+        "correcto": true
+      },
+      {
+        "texto": "Realizar maniobras acrobáticas con el vehículo en la vía pública.",
+        "correcto": false
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué significa vía de doble sentido de circulación?",
+    "respuestas": [
+      {
+        "texto": "Que los vehículos están autorizados a circular en el mismo sentido de circulación.",
+        "correcto": false
+      },
+      {
+        "texto": "Que los vehículos están autorizados a circular en sentidos opuestos.",
+        "correcto": true
+      },
+      {
+        "texto": "Que solo se desplazan autobuses y transporte pesado.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué significa vía de un sólo sentido de circulación?",
+    "respuestas": [
+      {
+        "texto": "Que los vehículos están autorizados a circular en el mismo sentido de circulación.",
+        "correcto": true
+      },
+      {
+        "texto": "Que los vehículos se desplazan en sentidos opuestos.",
+        "correcto": false
+      },
+      {
+        "texto": "Que solo se desplazan autobuses y transporte pesado.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuándo debo revisar las condiciones técnicas y mecánicas del vehículo?",
+    "respuestas": [
+      {
+        "texto": "Cada seis meses.",
+        "correcto": false
+      },
+      {
+        "texto": "Cada año.",
+        "correcto": false
+      },
+      {
+        "texto": "Antes de ponerlo en marcha.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es el ángulo de visibilidad al conducir un vehículo?",
+    "respuestas": [
+      {
+        "texto": "Es el área máxima de visión que debe de tener todo conductor al desplazarse sobre la vía.",
+        "correcto": true
+      },
+      {
+        "texto": "Área de amplia visibilidad en vía pública.",
+        "correcto": false
+      },
+      {
+        "texto": "Área de desplazamiento de los automotores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es la Inspección técnica de vehículos?",
+    "respuestas": [
+      {
+        "texto": "Es el control, chequeo y revisión del vehículo.",
+        "correcto": false
+      },
+      {
+        "texto": "Es la verificación de las características del vehículo.",
+        "correcto": false
+      },
+      {
+        "texto": "Es la que permite verificar las condiciones mínimas de seguridad para su funcionamiento y circulación.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es una Intersección?",
+    "respuestas": [
+      {
+        "texto": "Punto de convergencia de dos a más vías públicas o privadas para su unión o cruce entre sí.",
+        "correcto": true
+      },
+      {
+        "texto": "Una pista para automotores.",
+        "correcto": false
+      },
+      {
+        "texto": "Es una calle de una sola dirección.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Quién es Peatón?",
+    "respuestas": [
+      {
+        "texto": "El usuario de la vía que transita en carretones.",
+        "correcto": false
+      },
+      {
+        "texto": "Aquellos ciclistas que hacen uso de la vía.",
+        "correcto": false
+      },
+      {
+        "texto": "Todo ser humano que transita por la vía pública y no conduce un vehículo automotor.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es Paso peatonal?",
+    "respuestas": [
+      {
+        "texto": "Es el área señalada y destinada para el paso exclusivo de peatones.",
+        "correcto": true
+      },
+      {
+        "texto": "El área que el peatón selecciona para cruzar la vía.",
+        "correcto": false
+      },
+      {
+        "texto": "Es un área señalizada para esperar el autobús.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es conducción temeraria?",
+    "respuestas": [
+      {
+        "texto": "Realizar o participar en competencias de velocidad ilegales.",
+        "correcto": true
+      },
+      {
+        "texto": "Conducir con temor en la vía.",
+        "correcto": false
+      },
+      {
+        "texto": "Conducir con licencia vencida.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuáles son los vehículos de régimen preferentes?",
+    "respuestas": [
+      {
+        "texto": "Las pipas de gasolina, los recolectores de basura.",
+        "correcto": false
+      },
+      {
+        "texto": "Los de traslado de valores bancarios.",
+        "correcto": false
+      },
+      {
+        "texto": "Caravanas presidenciales, militares, de gobierno, cruz roja, auto patrullas de la Policía Nacional.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es régimen preferente?",
+    "respuestas": [
+      {
+        "texto": "Es el régimen de preferencia de circulación para los vehículos autorizados por la ley 431.",
+        "correcto": true
+      },
+      {
+        "texto": "Permiso que se solicita ante la autoridad de aplicación.",
+        "correcto": false
+      },
+      {
+        "texto": "Los que usan dispositivos sonoros comerciales.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es infracción de tránsito?",
+    "respuestas": [
+      {
+        "texto": "La acción u omisión contraria a la ley 431 y su reglamento.",
+        "correcto": true
+      },
+      {
+        "texto": "La multa a pagar establecida en el arto 26.",
+        "correcto": false
+      },
+      {
+        "texto": "Desconocimiento de la ley 431.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es Suspensión de licencia?",
+    "respuestas": [
+      {
+        "texto": "Las multas que se aplica a conductores que violan o infringen la ley.",
+        "correcto": false
+      },
+      {
+        "texto": "Es la acción administrativa que ejerce Seguridad de Tránsito de la Policía Nacional por infracciones de mayor peligrosidad y peligrosas.",
+        "correcto": true
+      },
+      {
+        "texto": "La retención del vehículo.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿A que están obligados los medios de transporte de tracción humana o animal?",
+    "respuestas": [
+      {
+        "texto": "Colocar señales lumínicas, cintas adhesivas reflexivas, en la parte delantera y trasera del medio de transporte.",
+        "correcto": true
+      },
+      {
+        "texto": "Si hacen infracciones se les aplicará lo establecido en el artículo 26 de la ley 431.",
+        "correcto": false
+      },
+      {
+        "texto": "Deben pagar sus multas en sesenta días o se les duplica.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuándo se establece la reincidencia de infracciones?",
+    "respuestas": [
+      {
+        "texto": "Al acumular en un año, 3 infracciones de mayor peligrosidad, 6 peligrosas o una combinación de 4 de los dos tipos de infracciones.",
+        "correcto": true
+      },
+      {
+        "texto": "Al no respetar las señales e invadir carril al mismo tiempo.",
+        "correcto": false
+      },
+      {
+        "texto": "Cuando el agente así lo considere.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Por cuánto tiempo se suspenderá la licencia de conducir cuando se determine la primera reincidencia?",
+    "respuestas": [
+      {
+        "texto": "Tres meses.",
+        "correcto": false
+      },
+      {
+        "texto": "Seis meses.",
+        "correcto": true
+      },
+      {
+        "texto": "Un año.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué otra sanción causa la reincidencia por infracciones?",
+    "respuestas": [
+      {
+        "texto": "Curso de Adiestramiento vial.",
+        "correcto": true
+      },
+      {
+        "texto": "Seminario para conductores ebrios.",
+        "correcto": false
+      },
+      {
+        "texto": "Solo se pagará las multas.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué periodo de suspensión se aplica en los casos de las infracciones establecidas en los numerales 1), 2), 3), 4), 5) y 6) del artículo 26?",
+    "respuestas": [
+      {
+        "texto": "De tres meses hasta un año.",
+        "correcto": true
+      },
+      {
+        "texto": "Segunda ocasión 6 meses.",
+        "correcto": false
+      },
+      {
+        "texto": "Tercera ocasión 1 año.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué sanciones se aplican a los conductores temerarios?",
+    "respuestas": [
+      {
+        "texto": "Serán responsables de infracción de conducción temeraria y se les aplicará la multa correspondiente.",
+        "correcto": true
+      },
+      {
+        "texto": "Responderán por la responsabilidad penal y civil que corresponda.",
+        "correcto": true
+      },
+      {
+        "texto": "Responderán por la deliberada transgresión a las normas de tránsito.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuántas infracciones puede aplicar el agente de tránsito a un conductor en un mismo momento?",
+    "respuestas": [
+      {
+        "texto": "Solamente una infracción.",
+        "correcto": false
+      },
+      {
+        "texto": "La o las infracciones cometidas.",
+        "correcto": true
+      },
+      {
+        "texto": "No más de tres.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es la prueba de concentración de alcohol en sangre?",
+    "respuestas": [
+      {
+        "texto": "Es el examen al que están obligados los conductores de vehículos automotores, cuando se vean involucrados en accidentes de tránsito.",
+        "correcto": true
+      },
+      {
+        "texto": "Los pasajeros, peatones pueden hacerse la prueba en la cruz roja.",
+        "correcto": false
+      },
+      {
+        "texto": "Es la prueba de sangre para saber el tipo de sangre.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Con cuántos gramos de alcohol se establece el estado de embriaguez ligera, según la tasa de alcoholemia?",
+    "respuestas": [
+      {
+        "texto": "Concentración superior de 0.5 a hasta 1 gramo de alcohol por litro de sangre.",
+        "correcto": true
+      },
+      {
+        "texto": "Concentración de 0.00 a 0.3 gramos de alcohol.",
+        "correcto": false
+      },
+      {
+        "texto": "Concentración de 1 grado a 1.2 grados de alcohol.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Con cuántos gramos de alcohol se establece el estado de embriaguez, según la tasa de alcoholemia?",
+    "respuestas": [
+      {
+        "texto": "Concentración de 5 gramos de alcohol.",
+        "correcto": false
+      },
+      {
+        "texto": "Concentración de más de 1 gramo hasta 2 gramos de alcohol por litro de sangre.",
+        "correcto": true
+      },
+      {
+        "texto": "Concentración de 1 grado a 1.2 grados de alcohol.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué boleta me sirve de licencia provisional cuando me multan?",
+    "respuestas": [
+      {
+        "texto": "La boleta roja por un periodo de 72 horas.",
+        "correcto": false
+      },
+      {
+        "texto": "La boleta amarilla por el periodo de treinta días.",
+        "correcto": true
+      },
+      {
+        "texto": "La boleta roja por 24 horas.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Con cuántos gramos de alcohol se establece el estado de embriaguez extrema?",
+    "respuestas": [
+      {
+        "texto": "Concentración superior a 2 gramos de alcohol por litro de sangre.",
+        "correcto": true
+      },
+      {
+        "texto": "Concentración de 0.5 gramos de alcohol.",
+        "correcto": false
+      },
+      {
+        "texto": "Concentración de más de 1 gramo hasta 2 gramos de alcohol por litro de sangre.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué ocurre Cuando el conductor se niegue a la realización del examen de alcoholimetría?",
+    "respuestas": [
+      {
+        "texto": "Levantará un acta con la presencia de dos testigos plenamente identificados por la autoridad en el lugar y se deberá anexar el expediente.",
+        "correcto": true
+      },
+      {
+        "texto": "Se le duplicará la multa.",
+        "correcto": false
+      },
+      {
+        "texto": "Se le imputarán cargos de desobediencia civil.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál de estas situaciones se cumple cuando se aplica la retención por embriaguez?",
+    "respuestas": [
+      {
+        "texto": "Se retendrá al conductor hasta por 12 horas y será ubicado separado de las personas detenidas por otras circunstancias.",
+        "correcto": true
+      },
+      {
+        "texto": "El afectado puede pagar una fianza y salir libre de cargos sin perjuicio de aplicar las sanciones administrativas que correspondan.",
+        "correcto": false
+      },
+      {
+        "texto": "Levantará un acta con la presencia de dos testigos en el lugar y se deberá anexar el expediente.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿A que está obligado el conductor, que se vea involucrados, en accidente de tránsito, con muertos y lesionados?",
+    "respuestas": [
+      {
+        "texto": "Permanecer en el lugar en espera de la Policía Nacional",
+        "correcto": true
+      },
+      {
+        "texto": "Buscar un arreglo de mediación",
+        "correcto": false
+      },
+      {
+        "texto": "Únicamente reportar caso a las aseguradoras.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Para qué le sirve la resolución de accidente de tránsito?",
+    "respuestas": [
+      {
+        "texto": "Esta tendrá carácter de sentencia firme",
+        "correcto": false
+      },
+      {
+        "texto": "Bastará su presentación para su debido reclamo por parte interesada.",
+        "correcto": true
+      },
+      {
+        "texto": "Se debe presentar en los talleres autorizados",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es la instancia competente para la investigación de los accidentes de tránsito?",
+    "respuestas": [
+      {
+        "texto": "La especialidad de seguridad de transito de la policía nacional.",
+        "correcto": true
+      },
+      {
+        "texto": "La policía nacional.",
+        "correcto": false
+      },
+      {
+        "texto": "Las compañías aseguradoras",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Para quienes es obligatorio el uso del cinturón de seguridad?",
+    "respuestas": [
+      {
+        "texto": "Los ocupantes del asiento delantero.",
+        "correcto": false
+      },
+      {
+        "texto": "Niños menores de siete años en el asiento trasero",
+        "correcto": false
+      },
+      {
+        "texto": "Los ocupantes del asiento delantero y los niños menores de siete años en el asiento trasero",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Para quienes es exigido el uso del casco de seguridad?",
+    "respuestas": [
+      {
+        "texto": "Conductores de motocicleta",
+        "correcto": true
+      },
+      {
+        "texto": "Ciclistas en competencias de velocidad",
+        "correcto": false
+      },
+      {
+        "texto": "Conductor y pasajero de motocicleta",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué medidas de seguridad establece la ley para niños menores de siete años al ser transportados?",
+    "respuestas": [
+      {
+        "texto": "Uso de sillas adecuadas o sistemas de retención infantil solo en el asiento trasero",
+        "correcto": true
+      },
+      {
+        "texto": "Se permite transportar niños menores de siete años en el asiento delantero si van en sillas especiales",
+        "correcto": false
+      },
+      {
+        "texto": "Los Niños pueden viajar en asiento delantero si usan el cinturón",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuáles son los tipos de licencia de conducir establecidos en Nicaragua?",
+    "respuestas": [
+      {
+        "texto": "Menor de edad, ordinaria y profesional",
+        "correcto": false
+      },
+      {
+        "texto": "Ordinaria y profesional",
+        "correcto": true
+      },
+      {
+        "texto": "Profesional, especial, ordinaria y de menor de edad",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuáles de las abajo mencionadas son infracciones de Mayor Peligrosidad?",
+    "respuestas": [
+      {
+        "texto": "Conducir en estado de embriaguez extrema.",
+        "correcto": true
+      },
+      {
+        "texto": "Estacionarse frente a hidrantes",
+        "correcto": false
+      },
+      {
+        "texto": "Conducir sin portar el seguro.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿cuáles de los siguientes vehículos deben circular en el carril derecho?",
+    "respuestas": [
+      {
+        "texto": "Bomberos y vehículos híbridos",
+        "correcto": false
+      },
+      {
+        "texto": "Transporte de carga y pasajero y vehículos lentos",
+        "correcto": true
+      },
+      {
+        "texto": "Los carretones empujados por personas en las carreteras",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál de las mencionadas es una de las técnicas para aventajar?",
+    "respuestas": [
+      {
+        "texto": "Observar si el vehículo que esta atrás y el de adelante no van a realizar la misma maniobra.",
+        "correcto": false
+      },
+      {
+        "texto": "Observar si en el carril derecho existe suficiente espacio para aventajar.",
+        "correcto": true
+      },
+      {
+        "texto": "Calcular la posición de mi vehículo con respecto al espacio.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En cuáles lugares se aplica multa por aventajar?",
+    "respuestas": [
+      {
+        "texto": "En puente, curva y tramos estrechos.",
+        "correcto": true
+      },
+      {
+        "texto": "Intersecciones, pasos a desnivel y cuestas.",
+        "correcto": false
+      },
+      {
+        "texto": "En pendientes, curvas o puentes.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cómo se clasifican los Vehículos según su naturaleza?",
+    "respuestas": [
+      {
+        "texto": "Vehículos de Tracción mecánica. Y delantera.",
+        "correcto": false
+      },
+      {
+        "texto": "Vehículos de Tracción humana y mecánica.",
+        "correcto": true
+      },
+      {
+        "texto": "Vehículos de Tracción animal, tracción humana y vehículo automotor.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué infracción se comete si circula a un diez por ciento más del límite?",
+    "respuestas": [
+      {
+        "texto": "Exceso de velocidad.",
+        "correcto": true
+      },
+      {
+        "texto": "Manejo temerario.",
+        "correcto": false
+      },
+      {
+        "texto": "Exposición de personas al peligro.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es La velocidad Máxima permitida para conducir en zonas escolares, con alumnos presentes?",
+    "respuestas": [
+      {
+        "texto": "15 Km/h.",
+        "correcto": false
+      },
+      {
+        "texto": "25 Km/h.",
+        "correcto": false
+      },
+      {
+        "texto": "30 Km/h.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué debo hacer cuando el peatón está usando la zona de seguridad o cruce peatonal?",
+    "respuestas": [
+      {
+        "texto": "Reducir la velocidad y tener cuidado.",
+        "correcto": true
+      },
+      {
+        "texto": "Detenerse.",
+        "correcto": false
+      },
+      {
+        "texto": "Conservar la velocidad y pitarle.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuándo puedo adelantar excepcionalmente con línea continua amarilla?",
+    "respuestas": [
+      {
+        "texto": "Cuando no vienen vehículos en sentido contrario.",
+        "correcto": true
+      },
+      {
+        "texto": "Siempre que lo haga con precaución.",
+        "correcto": false
+      },
+      {
+        "texto": "Nunca debo adelantar en línea amarilla continua.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Puedo girar a la derecha con el semáforo en luz roja?",
+    "respuestas": [
+      {
+        "texto": "No, se debe respetar siempre la luz.",
+        "correcto": false
+      },
+      {
+        "texto": "si, en todas las circunstancias.",
+        "correcto": false
+      },
+      {
+        "texto": "Solo que esté autorizado según la ley.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Por cuáles de éstas situaciones me pueden suspender la Licencia de Conducir?",
+    "respuestas": [
+      {
+        "texto": "Conducir en estado de ebriedad.",
+        "correcto": true
+      },
+      {
+        "texto": "Provocar accidentes y darme a la fuga.",
+        "correcto": true
+      },
+      {
+        "texto": "Exceso de Velocidad.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuáles son los periodos de suspensión de la Licencia de conducir por reincidencia?",
+    "respuestas": [
+      {
+        "texto": "La primera vez 3 meses; segunda vez 6 meses; tercera vez 1 año, cuarta vez definitiva.",
+        "correcto": true
+      },
+      {
+        "texto": "La primera vez 3 meses; segunda vez 1 año; tercera vez definitiva.",
+        "correcto": false
+      },
+      {
+        "texto": "Desde la primera vez se suspende por un año.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es la velocidad máxima permitida en carreteras?",
+    "respuestas": [
+      {
+        "texto": "60 Kph.",
+        "correcto": false
+      },
+      {
+        "texto": "100 kph o lo que indique la señal.",
+        "correcto": true
+      },
+      {
+        "texto": "80 kph.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es la velocidad máxima permitida en calles y avenidas?",
+    "respuestas": [
+      {
+        "texto": "60 Kph.",
+        "correcto": false
+      },
+      {
+        "texto": "Varía según la corriente del tráfico.",
+        "correcto": false
+      },
+      {
+        "texto": "45 kph o lo que indique la seña.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es la velocidad máxima permitida en pistas?",
+    "respuestas": [
+      {
+        "texto": "60 Kph o lo que indique la señal.",
+        "correcto": false
+      },
+      {
+        "texto": "Varía según la corriente del tráfico.",
+        "correcto": false
+      },
+      {
+        "texto": "45 kph o lo que indique la señal.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuáles son las conductas temerarias señaladas en el arto 26. bis?",
+    "respuestas": [
+      {
+        "texto": "Participar en competencias de velocidad ilegales.",
+        "correcto": true
+      },
+      {
+        "texto": "Circular a una velocidad que exceda el 30% del límite permitido.",
+        "correcto": true
+      },
+      {
+        "texto": "Realizar aventajamientos de forma indolente.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué vehículos están obligados a circular en las vías de dos carriles de un solo sentido, siempre en el carril derecho?",
+    "respuestas": [
+      {
+        "texto": "carga y pasajero y vehículos lentos.",
+        "correcto": true
+      },
+      {
+        "texto": "camiones, taxis y escuelas de manejo.",
+        "correcto": false
+      },
+      {
+        "texto": "los vehículos expresos.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Quiénes están obligados a circular por la derecha del arcén?",
+    "respuestas": [
+      {
+        "texto": "Pesados para no entorpecer el tráfico.",
+        "correcto": true
+      },
+      {
+        "texto": "Los vehículos de tracción animal y humana.",
+        "correcto": false
+      },
+      {
+        "texto": "Las motocicletas.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuándo puede un vehículo automotor circular por el arcén?",
+    "respuestas": [
+      {
+        "texto": "No es permitido circular sobre el Arcén.",
+        "correcto": false
+      },
+      {
+        "texto": "La excepción trata cuando algún vehículo va girar a la derecha.",
+        "correcto": true
+      },
+      {
+        "texto": "En vías de un solo carril, cuando un vehículo esta inmovilizado en el carril.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué documentos que debe portar al conducir?",
+    "respuestas": [
+      {
+        "texto": "Licencia de conducir.",
+        "correcto": true
+      },
+      {
+        "texto": "Licencia de Circulación.",
+        "correcto": true
+      },
+      {
+        "texto": "Seguro de responsabilidad civil.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué tipo de luces se deben de usar en horas de la noche, en las zonas urbanas?",
+    "respuestas": [
+      {
+        "texto": "Luces altas.",
+        "correcto": false
+      },
+      {
+        "texto": "Luces bajas.",
+        "correcto": true
+      },
+      {
+        "texto": "Depende de las circunstancias.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En cuáles circunstancias se deben utilizar las luces bajas en carreteras?",
+    "respuestas": [
+      {
+        "texto": "Cuando circulen vehículos en sentido opuesto.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando me acerco a poblados o peatones de frente.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando circule en un carril en sentido contrario al normalmente utilizado.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué debo hacer cuando circulo en un carril en sentido contrario al normalmente utilizado, que excepcionalmente esté autorizado para circular?",
+    "respuestas": [
+      {
+        "texto": "Tocar la bocina o pito.",
+        "correcto": false
+      },
+      {
+        "texto": "Conducir con precaución.",
+        "correcto": true
+      },
+      {
+        "texto": "Usar el sistema de luces.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Por cuáles de estas situaciones el conductor deberá ser detenido según el arto 122?",
+    "respuestas": [
+      {
+        "texto": "Cuando resulten personas fallecidas.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando las personas resulten con lesiones gravísimas y graves.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando los detenidos fuesen a consecuencia de lesiones leves, los involucrados serán puestos bajo arresto domiciliar.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Por cuánto tiempo se podrá retener a un conductor que se moviliza en estado de embriaguez?",
+    "respuestas": [
+      {
+        "texto": "8 horas.",
+        "correcto": false
+      },
+      {
+        "texto": "10 horas.",
+        "correcto": false
+      },
+      {
+        "texto": "12 horas.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuáles límites de velocidad prevalecen en carreteras?",
+    "respuestas": [
+      {
+        "texto": "Los que indiquen las señales de tránsito.",
+        "correcto": true
+      },
+      {
+        "texto": "Los que indiquen los agentes de tránsito.",
+        "correcto": true
+      },
+      {
+        "texto": "100 kph.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En qué situaciones la Policía Nacional puede retener un vehículo?",
+    "respuestas": [
+      {
+        "texto": "Cuando circula sin placas.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando circula sin seguro.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando circula sin licencia de circulación.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿De qué forma se determina cuando se tiene la preferencia en una intersección?",
+    "respuestas": [
+      {
+        "texto": "Cuando circula sobre avenidas.",
+        "correcto": false
+      },
+      {
+        "texto": "De acuerdo a la señal que regula.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando circula en las pistas.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué debo de realizar para cambiar de carril o para doblar en una esquina?",
+    "respuestas": [
+      {
+        "texto": "Señalizar para avisar al que circula en el carril contiguo.",
+        "correcto": true
+      },
+      {
+        "texto": "Calcular la velocidad, trayectoria y distancia, chequear el retrovisor y el punto ciego.",
+        "correcto": true
+      },
+      {
+        "texto": "Aumentar la aceleración para ocupar rápido el carril.",
+        "correcto": false
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": false
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué medidas de advertencia debo considerar al estacionarme?",
+    "respuestas": [
+      {
+        "texto": "Encender las luces de parqueo y hacerme a la derecha gradualmente.",
+        "correcto": true
+      },
+      {
+        "texto": "Hacer la maniobra en el primer espacio disponible.",
+        "correcto": false
+      },
+      {
+        "texto": "Poner el pide vía solamente.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué debo hacer ante la presencia de un vehículo de régimen preferente?",
+    "respuestas": [
+      {
+        "texto": "Hacerme a la derecha o izquierda y cederle el paso.",
+        "correcto": true
+      },
+      {
+        "texto": "Detener la marcha y seguirlo para aprovechar.",
+        "correcto": false
+      },
+      {
+        "texto": "Bajar la velocidad.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuáles de los mencionados son vehículos de régimen preferente?",
+    "respuestas": [
+      {
+        "texto": "Las grúas, los traslados de valores, los transportes de tóxicos y explosivos.",
+        "correcto": true
+      },
+      {
+        "texto": "Las caravanas oficiales del gobierno.",
+        "correcto": true
+      },
+      {
+        "texto": "Las carrozas.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Se puede aventajar un vehículo que va lento en la carretera?",
+    "respuestas": [
+      {
+        "texto": "Solamente si él se hace un lado y cede el paso.",
+        "correcto": false
+      },
+      {
+        "texto": "Siempre que el carril contrario esté libre.",
+        "correcto": true
+      },
+      {
+        "texto": "Se puede aventajar con precaución.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es el factor determinante para prevenir accidentes de tránsito?",
+    "respuestas": [
+      {
+        "texto": "Vía.",
+        "correcto": false
+      },
+      {
+        "texto": "Ser humano.",
+        "correcto": true
+      },
+      {
+        "texto": "Vehículo.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es distancia de frenado?",
+    "respuestas": [
+      {
+        "texto": "La que recorre el vehículo desde que se le aplican los frenos hasta detenerse.",
+        "correcto": true
+      },
+      {
+        "texto": "La que recorre desde que percibo el riesgo hasta que presiono el freno.",
+        "correcto": false
+      },
+      {
+        "texto": "La suma de la distancia de parada y de la distancia de frenado.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Quién tiene la preferencia de paso, donde no existan señales de tránsito?",
+    "respuestas": [
+      {
+        "texto": "El vehículo que continúe en la vía por la cual circula tendrá preferencia de paso sobre los vehículos que vayan a ingresar a dicha vía.",
+        "correcto": true
+      },
+      {
+        "texto": "El que va se desplaza en la avenida.",
+        "correcto": false
+      },
+      {
+        "texto": "El que llega primero a la esquina.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué pasos debo ejecutar cuando voy a ocupar otro carril distinto al que yo circulo?",
+    "respuestas": [
+      {
+        "texto": "Poner el pide vía con anticipación.",
+        "correcto": true
+      },
+      {
+        "texto": "Verificar por los espejos retrovisores.",
+        "correcto": true
+      },
+      {
+        "texto": "Respetar la prioridad del que circule por el carril que pretendo ocupar.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál señal de tránsito es la que prevalece en una intersección?",
+    "respuestas": [
+      {
+        "texto": "Semáforo.",
+        "correcto": true
+      },
+      {
+        "texto": "Agente de tránsito.",
+        "correcto": false
+      },
+      {
+        "texto": "Los altos y líneas de pare.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Quién tiene preferencia de paso cuando dos vehículos que circulen en sentido contrario van a tomar la misma vía en el mismo sentido de circulación, y no hay señales?",
+    "respuestas": [
+      {
+        "texto": "El que va a girar a la izquierda.",
+        "correcto": false
+      },
+      {
+        "texto": "El que gira a la derecha.",
+        "correcto": true
+      },
+      {
+        "texto": "El que va a ingresar.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es paso a desnivel?",
+    "respuestas": [
+      {
+        "texto": "Es donde dos vías se interceptan, una por encima de la otra para que la circulación se realice a diferentes niveles de la superficie.",
+        "correcto": true
+      },
+      {
+        "texto": "Punto de convergencia de dos o más vías.",
+        "correcto": false
+      },
+      {
+        "texto": "Paso de seguridad de peatones y vehículos.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Quién tiene preferencia en un sitio estrecho?",
+    "respuestas": [
+      {
+        "texto": "El que entra primero.",
+        "correcto": true
+      },
+      {
+        "texto": "El vehículo de pasajeros.",
+        "correcto": false
+      },
+      {
+        "texto": "Los taxis siempre tienen preferencia.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuándo se puede efectuar el aventajamiento por la derecha?",
+    "respuestas": [
+      {
+        "texto": "Únicamente: cuando se encuentre inmovilizado un vehículo.",
+        "correcto": true
+      },
+      {
+        "texto": "Bajo ninguna circunstancia se puede aventajar por la derecha en vías de un solo carril.",
+        "correcto": false
+      },
+      {
+        "texto": "Cuando hay reductores de velocidad.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué precauciones debo tener al incorporarme al tráfico?",
+    "respuestas": [
+      {
+        "texto": "Señalizar con los pide vía.",
+        "correcto": true
+      },
+      {
+        "texto": "Verificar con los retrovisores.",
+        "correcto": true
+      },
+      {
+        "texto": "Esperar a que la circulación lo permita.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Por qué no debo entrar a la intersección con luz verde, si previsiblemente no llegaré al otro lado?",
+    "respuestas": [
+      {
+        "texto": "No hay limitante si tengo la luz verde.",
+        "correcto": false
+      },
+      {
+        "texto": "Para no obstruir la circulación transversal.",
+        "correcto": true
+      },
+      {
+        "texto": "Porque si espero atraso el tráfico.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Para qué maniobras está indicada la marcha en reversa?",
+    "respuestas": [
+      {
+        "texto": "Para ingresar a garajes y maniobras de parqueo.",
+        "correcto": true
+      },
+      {
+        "texto": "Para retornar en U.",
+        "correcto": false
+      },
+      {
+        "texto": "Se puede retroceder siempre.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuándo se puede aventajar por el carril izquierdo?",
+    "respuestas": [
+      {
+        "texto": "Nunca se debe aventajar por la izquierda.",
+        "correcto": false
+      },
+      {
+        "texto": "Cuando se presenten las condiciones.",
+        "correcto": true
+      },
+      {
+        "texto": "Siempre se aventaja por el carril izquierdo.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Por qué no debo adelantar en línea continua amarilla?",
+    "respuestas": [
+      {
+        "texto": "Porque se invade el carril contrario.",
+        "correcto": true
+      },
+      {
+        "texto": "Porque la señal lo está prohibiendo.",
+        "correcto": true
+      },
+      {
+        "texto": "Porque es peligroso un choque de frente.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores.",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es lo primero antes de iniciar la marcha con un vehículo?",
+    "respuestas": [
+      {
+        "texto": "Colocarse el cinturón de seguridad.",
+        "correcto": true
+      },
+      {
+        "texto": "Arreglar los espejos retrovisores.",
+        "correcto": true
+      },
+      {
+        "texto": "Adoptar una postura correcta, para lo cual debe acomodar el asiento.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿A qué velocidad se debe circular al aproximarse a un paso a desnivel?",
+    "respuestas": [
+      {
+        "texto": "La misma velocidad que se desplaza en la calle.",
+        "correcto": false
+      },
+      {
+        "texto": "Se debe tomar el impulso necesario.",
+        "correcto": false
+      },
+      {
+        "texto": "Por debajo de la velocidad máxima permitida.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es el límite de velocidad máximo permitido según la Ley 431 para calles y avenidas?",
+    "respuestas": [
+      {
+        "texto": "45 kph.",
+        "correcto": false
+      },
+      {
+        "texto": "60 kph.",
+        "correcto": true
+      },
+      {
+        "texto": "25 kph.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es el límite de velocidad permitida para pistas?",
+    "respuestas": [
+      {
+        "texto": "45 kilómetros por hora.",
+        "correcto": false
+      },
+      {
+        "texto": "25 kilómetros por hora.",
+        "correcto": false
+      },
+      {
+        "texto": "60 kilómetros por hora.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Por qué no se debe aventajar en pendientes?",
+    "respuestas": [
+      {
+        "texto": "Por la falta de pericia lo que hace peligrosa la maniobra.",
+        "correcto": true
+      },
+      {
+        "texto": "Porque la ley lo prohíbe.",
+        "correcto": false
+      },
+      {
+        "texto": "Porque el vehículo pierde potencia.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Por qué es prohibido aventajar en puentes?",
+    "respuestas": [
+      {
+        "texto": "Por falta de visibilidad y la ley no lo prohíbe.",
+        "correcto": false
+      },
+      {
+        "texto": "Por reducción del espacio y la ley lo prohíbe.",
+        "correcto": true
+      },
+      {
+        "texto": "Porque todos los puentes son angostos.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Por qué es prohibido aventajar en curvas?",
+    "respuestas": [
+      {
+        "texto": "Por falta de visibilidad",
+        "correcto": false
+      },
+      {
+        "texto": "Porque no hay visibilidad y se invade el carril contrario",
+        "correcto": true
+      },
+      {
+        "texto": "Porque la ley lo prohíbe",
+        "correcto": false
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es la velocidad máxima al circular dentro de la rotonda?",
+    "respuestas": [
+      {
+        "texto": "45 km por hora",
+        "correcto": false
+      },
+      {
+        "texto": "30 km por hora o lo que la señal indique",
+        "correcto": true
+      },
+      {
+        "texto": "35 km por hora",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿A quién se le otorga la licencia de tipo profesional?",
+    "respuestas": [
+      {
+        "texto": "A quienes ostentan título profesional",
+        "correcto": false
+      },
+      {
+        "texto": "Quienes ejerzan de forma permanente la labor de la conducción, haciendo de ello una labor profesional.",
+        "correcto": true
+      },
+      {
+        "texto": "Aquellos conductores con más de un año de tener la ordinaria.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuándo es retenida la licencia de conducir por la autoridad?",
+    "respuestas": [
+      {
+        "texto": "En los casos de infracción y vencimiento.",
+        "correcto": true
+      },
+      {
+        "texto": "En casos de cambios de domicilio.",
+        "correcto": false
+      },
+      {
+        "texto": "En casos de cambio de dueño del vehículo.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En qué otros casos la licencia de conducir es retenida por la autoridad?",
+    "respuestas": [
+      {
+        "texto": "Suspensión temporal o cancelación de la misma",
+        "correcto": true
+      },
+      {
+        "texto": "Cambio de domicilio",
+        "correcto": false
+      },
+      {
+        "texto": "Cambio de dueño del vehículo",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué debo hacer si el vehículo sufre un desperfecto mecánico en el paso a desnivel?",
+    "respuestas": [
+      {
+        "texto": "Avisar al mecánico que venga a repararlo",
+        "correcto": false
+      },
+      {
+        "texto": "Colocar los triángulos de seguridad y buscar la forma de desalojar la vía",
+        "correcto": true
+      },
+      {
+        "texto": "Avisar al seguro y a la Policía",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿A qué distancia se deben colocar los triángulos de seguridad en el perímetro urbano?",
+    "respuestas": [
+      {
+        "texto": "A diez metros del vehículo, aproximadamente",
+        "correcto": true
+      },
+      {
+        "texto": "A veinte metros del vehículo, aproximadamente",
+        "correcto": false
+      },
+      {
+        "texto": "Por el costado derecho del vehículo",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Por qué se debe apagar el motor cuando se carga combustible?",
+    "respuestas": [
+      {
+        "texto": "Para ahorrar combustible",
+        "correcto": false
+      },
+      {
+        "texto": "Para evitar ruidos innecesarios",
+        "correcto": false
+      },
+      {
+        "texto": "Porque la ley lo establece",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En qué condiciones el peatón tiene derecho de paso preferencial?",
+    "respuestas": [
+      {
+        "texto": "Cuando cruza cualquier calle en los lugares señalizados",
+        "correcto": true
+      },
+      {
+        "texto": "Donde haya semáforo peatonal en luz verde.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando el agente de tránsito le indique",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué significa Estacionarse?",
+    "respuestas": [
+      {
+        "texto": "Detener un vehículo en la vía pública con o sin el conductor dentro de él",
+        "correcto": true
+      },
+      {
+        "texto": "Ubicar el vehículo en un lugar determinado",
+        "correcto": false
+      },
+      {
+        "texto": "Paralizar un vehículo en la vía pública, con o sin el conductor, por un período mayor que el necesario para dejar o recibir pasajeros",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es Intersección?",
+    "respuestas": [
+      {
+        "texto": "El área común de calzadas que no se cruzan o divergen",
+        "correcto": false
+      },
+      {
+        "texto": "Punto de convergencia de dos o más vías, para su unión o cruce entre sí.",
+        "correcto": true
+      },
+      {
+        "texto": "La línea perpendicular a la calzada, demarcada o imaginaria que determina las áreas con sentido de tránsito opuesto",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es línea de pare o de detención?",
+    "respuestas": [
+      {
+        "texto": "Lugar donde los vehículos deben de parar, para ceder el paso a los vehículos o peatones.",
+        "correcto": true
+      },
+      {
+        "texto": "El paso de cebra",
+        "correcto": false
+      },
+      {
+        "texto": "La línea imaginaria, ubicada a menos de un metro después del paso de peatones",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuáles prohibiciones normativas son correctas para las intersecciones?",
+    "respuestas": [
+      {
+        "texto": "No aventajar, no girar en U, no estacionar, no cambiar de carril.",
+        "correcto": true
+      },
+      {
+        "texto": "No aventajar, no girar a la izquierda, solo a la derecha",
+        "correcto": false
+      },
+      {
+        "texto": "No cruzar en rojo, no aventajar, no hay paso de autos",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿De qué color deben ser las luces bajas o altas que proyectan hacia adelante los vehículos?",
+    "respuestas": [
+      {
+        "texto": "Blancas",
+        "correcto": true
+      },
+      {
+        "texto": "Blancas o amarillas",
+        "correcto": true
+      },
+      {
+        "texto": "Rojas o amarillas",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿De qué color deben ser las luces de pide vía?",
+    "respuestas": [
+      {
+        "texto": "Blancas",
+        "correcto": false
+      },
+      {
+        "texto": "Amarillas",
+        "correcto": true
+      },
+      {
+        "texto": "Rojas",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué luces no pueden llevar por la noche el vehículo en las carreteras al circular por un poblado?",
+    "respuestas": [
+      {
+        "texto": "Luces altas",
+        "correcto": true
+      },
+      {
+        "texto": "Luces bajas",
+        "correcto": false
+      },
+      {
+        "texto": "Cualquier tipo de luz",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En qué horario se deben encender las luces cuando se está circulando?",
+    "respuestas": [
+      {
+        "texto": "Entre las seis de la mañana y seis de la tarde",
+        "correcto": false
+      },
+      {
+        "texto": "Entre las cinco de la mañana y seis de la tarde",
+        "correcto": false
+      },
+      {
+        "texto": "Entre las seis de la tarde y seis de la mañana.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué debo de hacer cuando se aproxima un vehículo de régimen preferente en el mismo sentido?",
+    "respuestas": [
+      {
+        "texto": "Acelerar y circular delante del vehículo de emergencia",
+        "correcto": false
+      },
+      {
+        "texto": "Frenar bruscamente",
+        "correcto": false
+      },
+      {
+        "texto": "Conducir el vehículo lo más a la izquierda o a la derecha posible, con el objeto de despejar la vía",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En qué circunstancias también es obligatorio el uso del sistema de luces?",
+    "respuestas": [
+      {
+        "texto": "Cuando las condiciones meteorológicas lo exigen.",
+        "correcto": true
+      },
+      {
+        "texto": "En tiempo de lluvia, humo y polvo.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando circule en sentido contrario de manera autorizada.",
+        "correcto": false
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En qué lugares es prohibido estacionarse?",
+    "respuestas": [
+      {
+        "texto": "Frente a garaje, hidrante, frente a hospitales.",
+        "correcto": true
+      },
+      {
+        "texto": "De siete pm a 6 pm en las vías principales",
+        "correcto": false
+      },
+      {
+        "texto": "Donde los CPF lo impidan",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cómo debe estacionarse en una carretera?",
+    "respuestas": [
+      {
+        "texto": "Fuera de la calzada, dejando libre el arcén.",
+        "correcto": true
+      },
+      {
+        "texto": "Por el lado izquierdo, sin obstaculizar la libre circulación.",
+        "correcto": false
+      },
+      {
+        "texto": "Si no voy a tardar lo hago un poco a la orilla.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En cuáles de las circunstancias el vehículo será trasladado al depósito?",
+    "respuestas": [
+      {
+        "texto": "Por exceso de pasajero",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando sea estacionado en lugares no autorizados",
+        "correcto": true
+      },
+      {
+        "texto": "Por no andar luces de pide vía.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿De cuánto es el término de Ley 431, para inscripción de cambio de propietario?",
+    "respuestas": [
+      {
+        "texto": "50 días.",
+        "correcto": false
+      },
+      {
+        "texto": "60 días.",
+        "correcto": false
+      },
+      {
+        "texto": "90 días.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En qué circunstancia debe apagar el motor del vehículo?",
+    "respuestas": [
+      {
+        "texto": "Cuando estoy en la bahía de buses.",
+        "correcto": false
+      },
+      {
+        "texto": "En lugares cerrados.",
+        "correcto": true
+      },
+      {
+        "texto": "Cuando abordo un pasajero.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuándo puedo circular en retroceso?",
+    "respuestas": [
+      {
+        "texto": "Cuando me equivoque de paso en una intersección.",
+        "correcto": false
+      },
+      {
+        "texto": "Para cambiar de carril.",
+        "correcto": false
+      },
+      {
+        "texto": "Para estacionarse.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Qué es acera?",
+    "respuestas": [
+      {
+        "texto": "Espacio para que caminen los niños en bicicleta.",
+        "correcto": false
+      },
+      {
+        "texto": "Parte superior de la vía destinada a la circulación peatonal.",
+        "correcto": true
+      },
+      {
+        "texto": "Espacio para que circulen los patinadores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es la velocidad máxima al circular en zona escolar?",
+    "respuestas": [
+      {
+        "texto": "45 km por hora",
+        "correcto": false
+      },
+      {
+        "texto": "30 km por hora",
+        "correcto": true
+      },
+      {
+        "texto": "25 km por hora",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuál es la velocidad máxima al circular en camino?",
+    "respuestas": [
+      {
+        "texto": "25 km por hora",
+        "correcto": false
+      },
+      {
+        "texto": "35 km por hora",
+        "correcto": false
+      },
+      {
+        "texto": "No hay velocidad establecida",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿En qué carril debe circular si usted conduce a una velocidad inferior a la establecida por la señalización de tránsito?",
+    "respuestas": [
+      {
+        "texto": "Carril izquierdo",
+        "correcto": false
+      },
+      {
+        "texto": "Carril derecho",
+        "correcto": true
+      },
+      {
+        "texto": "Carril del centro",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "1",
+    "pregunta": "¿Cuáles de estas reglas debo aplicar para circular en rotonda?",
+    "respuestas": [
+      {
+        "texto": "no Cambiar de Carril.",
+        "correcto": true
+      },
+      {
+        "texto": "no Estacionarse.",
+        "correcto": true
+      },
+      {
+        "texto": "no Retroceder.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcto": false
+      }
+    ]
+  },
+    {
+        "categoria": "1",
+        "pregunta": "¿Por qué lado se debe de bajar el pasajero?",
+        "respuestas": [
+            {
+                "texto": "Puerta izquierda.",
+                "correcto": false
+            },
+            {
+                "texto": "Puerta derecha.",
+                "correcto": true
+            },
+            {
+                "texto": "Cualquiera de las puertas.",
+                "correcto": false
+            }
+        ]
+    },
+    {
+        "categoria": "1",
+        "pregunta": "¿Al bajar de los vehículos, qué deben hacer los peatones?",
+        "respuestas": [
+            {
+                "texto": "Deben cruzar inmediatamente por delante del vehículo que bajó.",
+                "correcto": false
+            },
+            {
+                "texto": "Deben cruzar inmediatamente por detrás del vehículo que bajó.",
+                "correcto": false
+            },
+            {
+                "texto": "Debe esperar que el vehículo del que bajó avance hasta tener la suficiente visibilidad para cruzar la vía.",
+                "correcto": true
+            }
+        ]
+    },
+    {
+        "categoria": "1",
+        "pregunta": "¿Quién tiene preferencia en una pendiente estrecha y hacia arriba?",
+        "respuestas": [
+            {
+                "texto": "El que va subiendo.",
+                "correcto": true
+            },
+            {
+                "texto": "El que va bajando.",
+                "correcto": false
+            },
+            {
+                "texto": "El que entró primero.",
+                "correcto": false
+            }
+        ]
+    },
+    {
+        "categoria": "1",
+        "pregunta": "¿Cuándo puede aventajar a un vehículo lento que ya ocasionó una fila y hay línea continua?",
+        "respuestas": [
+            {
+                "texto": "Cuando él se hace a un lado y permite el paso.",
+                "correcto": true
+            },
+            {
+                "texto": "Cuando usted percibe que no hay peligro.",
+                "correcto": false
+            },
+            {
+                "texto": "Debe esperar a que la señal lo permita.",
+                "correcto": false
+            }
+        ]
+    }
+]

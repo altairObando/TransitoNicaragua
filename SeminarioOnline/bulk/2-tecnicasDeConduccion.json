@@ -1,0 +1,877 @@
+[
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuál es el elemento determinante en la prevención del accidente?",
+    "respuestas": [
+      {
+        "texto": "El ser humano y su educación",
+        "correcto": true
+      },
+      {
+        "texto": "La vía y su correcta construcción",
+        "correcto": false
+      },
+      {
+        "texto": "Las nuevas tecnologías en los vehículos",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué es manejo defensivo?",
+    "respuestas": [
+      {
+        "texto": "Es conducir evitando accidentes a pesar de las acciones incorrectas de los demás usuarios y las condiciones adversas",
+        "correcto": true
+      },
+      {
+        "texto": "Es salir a manejar confiando en nuestras destrezas sin importar el destino",
+        "correcto": false
+      },
+      {
+        "texto": "Es protegerse con dispositivos especiales electrónicos que nos ayudan a evitar accidentes",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles pueden ser las etapas de respuesta para evitar un accidente de tránsito?",
+    "respuestas": [
+      {
+        "texto": "Valorar la situación, ir atento a lo que se presente y hacer uso de la bocina",
+        "correcto": false
+      },
+      {
+        "texto": "Reconocer el peligro, entender(organizar) la defensa, Actuar a tiempo",
+        "correcto": true
+      },
+      {
+        "texto": "Conservar la calma y decidir lo más pronto posible",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles son los factores en el ser humano que ayudan a desarrollar una conducción defensiva?",
+    "respuestas": [
+      {
+        "texto": "Conocimiento, Alerta, Buen Juicio, Previsión, Agilidad.",
+        "correcto": true
+      },
+      {
+        "texto": "Buena salud, buena educación, cortesía todo el tiempo",
+        "correcto": false
+      },
+      {
+        "texto": "Sentido común y un poco de suerte",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Por qué ocurre el choque con el vehículo que va adelante?",
+    "respuestas": [
+      {
+        "texto": "Por andar los frenos bajos e ir de prisa",
+        "correcto": false
+      },
+      {
+        "texto": "Por no guardar la distancia, distraerse y no anticipar lo que pasa más adelante",
+        "correcto": true
+      },
+      {
+        "texto": "Por el que el otro se detiene de pronto",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué es distancia de seguridad?",
+    "respuestas": [
+      {
+        "texto": "La que nos permite seguir un auto sin ser vistos",
+        "correcto": false
+      },
+      {
+        "texto": "La que se guarda entre nosotros y el de adelante y que permite realizar las maniobras de forma segura.",
+        "correcto": true
+      },
+      {
+        "texto": "La que recorre el vehículo desde que lo freno hasta que se detiene",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué es distancia de Reacción?",
+    "respuestas": [
+      {
+        "texto": "La que se recorre sin que me dé cuenta mientras hablo por teléfono",
+        "correcto": false
+      },
+      {
+        "texto": "La que el vehículo recorre mientras estoy buscando aplicar el freno",
+        "correcto": true
+      },
+      {
+        "texto": "La que se recorre mientras me anticipo viendo hacia adelante",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué es distancia de frenado?",
+    "respuestas": [
+      {
+        "texto": "Espacio que recorre el vehículo desde que aplico el freno hasta que se detiene totalmente.",
+        "correcto": true
+      },
+      {
+        "texto": "Espacio determinado para detener el vehículo según la ley",
+        "correcto": false
+      },
+      {
+        "texto": "La cantidad de metros que recorre la llanta dejando la huella cuando freno.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿De qué factores depende la distancia de frenado?",
+    "respuestas": [
+      {
+        "texto": "De la destreza del conductor para aplicar el freno a tiempo",
+        "correcto": false
+      },
+      {
+        "texto": "De la proporción relativa entre el estado de los frenos y las condiciones del transito",
+        "correcto": false
+      },
+      {
+        "texto": "Del peso, carga, velocidad y del estado de las llantas y la superficie sobre la que se frena",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué método es fácil y seguro para guardar la distancia de seguridad entre vehículos?",
+    "respuestas": [
+      {
+        "texto": "Calcular los metros entre vehículo y vehículo y acomodarnos según nuestra experiencia",
+        "correcto": false
+      },
+      {
+        "texto": "Dejar el espacio necesario para que el que viene atrás no le dé por aventajarnos",
+        "correcto": false
+      },
+      {
+        "texto": "Aplicar la regla del espacio (o método de los dos segundos).",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cómo se describe la regla del espacio o método de los dos segundos?",
+    "respuestas": [
+      {
+        "texto": "Apoyándonos en un punto de referencia calcular un tiempo mínimo de dos segundos entre los dos autos",
+        "correcto": true
+      },
+      {
+        "texto": "Contar dos segundos por cada vehículo que circula cercano al nuestro",
+        "correcto": false
+      },
+      {
+        "texto": "Aplicar un espacio delante de nuestro vehículo que podamos observar las llantas",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cómo evitar el choque con el vehículo que viene detrás del nuestro?",
+    "respuestas": [
+      {
+        "texto": "Guardando la distancia, haciendo las señales y no permitir que se acerque mucho",
+        "correcto": true
+      },
+      {
+        "texto": "Siempre le puedo culpar si andan las luces de freno en mal estado",
+        "correcto": false
+      },
+      {
+        "texto": "No distraerme hablando por celular",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué debemos hacer si un auto o moto nos sigue muy de cerca?",
+    "respuestas": [
+      {
+        "texto": "Acelerar para alejarnos",
+        "correcto": false
+      },
+      {
+        "texto": "Hacernos a un lado, promoviendo que nos aventaje",
+        "correcto": true
+      },
+      {
+        "texto": "Frenar para asustarlo y que guarde distancia",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles son las medidas de seguridad para abordar con seguridad una intersección?",
+    "respuestas": [
+      {
+        "texto": "Bajar la velocidad, señalizar con tiempo si va a girar",
+        "correcto": false
+      },
+      {
+        "texto": "Ubicar el carril según el giro y la vía, observar y atender la señal que regula",
+        "correcto": false
+      },
+      {
+        "texto": "No confiar en la preferencia, Fijarse en la circulación y pasar rápido",
+        "correcto": false
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles son las causas que ocasión accidentes en una intersección?",
+    "respuestas": [
+      {
+        "texto": "Desatender el alto, querer cruzar en amarillo",
+        "correcto": true
+      },
+      {
+        "texto": "Giros indebidos, invasión de carril, imprudencia peatonal, interceptar el paso.",
+        "correcto": true
+      },
+      {
+        "texto": "Cambios de carril y adelantamientos en intersecciones",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles son las reglas básicas para realizar giros a la derecha con alto?",
+    "respuestas": [
+      {
+        "texto": "Pongo la señal, observo y ejecuto.",
+        "correcto": false
+      },
+      {
+        "texto": "Señalizo, tomo mi carril con tiempo, atiendo la señal que regula, observo el área de la intersección y ejecuto.",
+        "correcto": true
+      },
+      {
+        "texto": "Pongo la señal, me ubico para doblar y doblo hacia donde haya espacio.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué carril debo usar si voy a girar a la izquierda desde una calle de dos carriles en el mismo sentido de circulación?",
+    "respuestas": [
+      {
+        "texto": "El carril derecho o el carril izquierdo da lo mismo",
+        "correcto": false
+      },
+      {
+        "texto": "Debo ubicar el carril izquierdo con anticipación y desde allí realizar la maniobra",
+        "correcto": true
+      },
+      {
+        "texto": "No debo seguir ninguna regla solo debo fijarme y ejecutar el giro",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Hacia qué carril debo dirigirme en un giro a la izquierda si la vía a la que me dirijo tiene dos o más carriles en el mismo sentido?",
+    "respuestas": [
+      {
+        "texto": "Hacia el carril izquierdo siempre",
+        "correcto": false
+      },
+      {
+        "texto": "Hacia el carril del centro",
+        "correcto": true
+      },
+      {
+        "texto": "Hacia el carril derecho",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Por qué el choque de frente es el más destructivo?",
+    "respuestas": [
+      {
+        "texto": "Porque los conductores no miden las consecuencias",
+        "correcto": false
+      },
+      {
+        "texto": "Porque las fuerzas de ambos vehículos se encuentran y se convierten en fuerzas destructivas de A hacia B y viceversa.",
+        "correcto": true
+      },
+      {
+        "texto": "Porque generalmente uno de los vehículos es el que invade carril",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles es la causa por las que produce un choque frontal?",
+    "respuestas": [
+      {
+        "texto": "Siempre sucede cuando el espacio es estrecho",
+        "correcto": false
+      },
+      {
+        "texto": "La inestabilidad de las llantas al ir a velocidad alta",
+        "correcto": false
+      },
+      {
+        "texto": "La invasión del carril contrario, por cualquier causa que originó la invasión de carril.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué causales pueden llevar a un conductor invadir el carril contrario?",
+    "respuestas": [
+      {
+        "texto": "Ebriedad, somnolencia, aventajar sin visibilidad, estallido de llanta",
+        "correcto": true
+      },
+      {
+        "texto": "Abordar mal una curva, adelantamientos prohibidos, defectuosos, o sin visibilidad, etc.",
+        "correcto": true
+      },
+      {
+        "texto": "Comportamientos temerarios, falta de control emocional.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles son los pasos básicos para abordar con un vehículo, una curva a la derecha asfaltada?",
+    "respuestas": [
+      {
+        "texto": "Todas las curvas se abordan a baja velocidad y con cautela",
+        "correcto": false
+      },
+      {
+        "texto": "Bajar la velocidad, colocarse cerca del borde derecho, al salir acelerar para estabilizar",
+        "correcto": true
+      },
+      {
+        "texto": "Bajar la velocidad, ubicarse al centro de la carretera y salir al centro del carril y acelerando.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles son los pasos básicos para abordar una curva a la derecha que no es pavimentada?",
+    "respuestas": [
+      {
+        "texto": "Todas las curvas se abordan a baja velocidad y con cautela",
+        "correcto": false
+      },
+      {
+        "texto": "Bajar la velocidad, colocarse cerca del borde derecho, al romper el arco acelerar para estabilizar",
+        "correcto": true
+      },
+      {
+        "texto": "Bajar la velocidad, ubicarse al centro de la carretera y salir hacia el centro del carril y acelerando.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles son los pasos básicos para abordar una curva a la izquierda que está pavimentada?",
+    "respuestas": [
+      {
+        "texto": "Todas las curvas se abordan a baja velocidad y con cautela",
+        "correcto": false
+      },
+      {
+        "texto": "Bajar la velocidad, colocarse al centro del carril, al romper el arco acelerar para estabilizar",
+        "correcto": true
+      },
+      {
+        "texto": "Bajar la velocidad, ubicarse al centro de la carretera y romper hacia el centro del carril para salir acelerando.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles son los pasos básicos para abordar una curva a la izquierda que no está pavimentada?",
+    "respuestas": [
+      {
+        "texto": "Todas las curvas se abordan a baja velocidad y con cautela",
+        "correcto": false
+      },
+      {
+        "texto": "Bajar la velocidad, parte derecha del carril, buscar el centro del carril y estabilizar al salir de la curva",
+        "correcto": true
+      },
+      {
+        "texto": "Bajar la velocidad, ubicarse al centro de la vía y buscar el centro del carril para salir acelerando.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles son los errores más frecuentes al adelantar?",
+    "respuestas": [
+      {
+        "texto": "Salir muy de cerca del auto que deseamos adelantar, evita una buena visibilidad o regresar en caso necesario",
+        "correcto": true
+      },
+      {
+        "texto": "No tomar en cuenta la potencia de nuestro vehículo en relación al que vamos adelantar",
+        "correcto": true
+      },
+      {
+        "texto": "No considerar las prohibiciones por velocidad, empalmes, visibilidad, puentes, etc.",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué debemos hacer cuando nos adelantan?",
+    "respuestas": [
+      {
+        "texto": "Bajar la velocidad, cargarnos a la derecha y facilitar la maniobra al que adelanta",
+        "correcto": true
+      },
+      {
+        "texto": "Acelerar para evitar que nos rebasen porque es peligroso",
+        "correcto": false
+      },
+      {
+        "texto": "Nada, cada quien sabe los riesgos que asume al manejar",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué debo suponer cuando en sentido contrario circula un equipo agrícola o un vehículo lento?",
+    "respuestas": [
+      {
+        "texto": "Detrás de él vienen más vehículos similares a él y será una caravana",
+        "correcto": false
+      },
+      {
+        "texto": "Detrás de él, vendrá seguramente algún vehículo más rápido y conductor impaciente y va aventajar",
+        "correcto": true
+      },
+      {
+        "texto": "Nada, en las carreteras siempre hay espacio y no pasa nada con los tractores.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Por qué el peatón es más susceptible de sufrir un accidente grave?",
+    "respuestas": [
+      {
+        "texto": "Por la baja percepción de riesgo de conductores y peatones",
+        "correcto": true
+      },
+      {
+        "texto": "Porque no todos los peatones conocen la ley y no se multan",
+        "correcto": false
+      },
+      {
+        "texto": "Por indisciplinados, impredecibles, imprudentes y frágiles al ser golpeados",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de los anteriores",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles de estas situaciones de riesgo usted identifica como situaciones de accidentes con peatones?",
+    "respuestas": [
+      {
+        "texto": "Usted se acerca a la parada del autobús en el carril contrario o detrás del mismo",
+        "correcto": true
+      },
+      {
+        "texto": "Fila de autos estacionados en zona comercial",
+        "correcto": true
+      },
+      {
+        "texto": "Peatón caminando de espaldas al tráfico ya sea en carretera o en ciudad",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcto": false
+      }
+    ]
+  },
+
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles de estas situaciones de riesgo usted identifica como situaciones de accidentes con peatones?",
+    "respuestas": [
+      {
+        "texto": "Peatón detenido sobre la doble línea amarilla.",
+        "correcto": true
+      },
+      {
+        "texto": "Peatón caminando sobre la acera de frente al trafico",
+        "correcto": false
+      },
+      {
+        "texto": "Peatón esperando en el semáforo peatonal",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuáles son las reglas básicas que debe aplicar en una rotonda?",
+    "respuestas": [
+      {
+        "texto": "Guiarse por las manobras de otros conductores experimentados",
+        "correcto": false
+      },
+      {
+        "texto": "Ser audaz para ingresar rápido y cuando está adentro ya lleva la preferencia",
+        "correcto": false
+      },
+      {
+        "texto": "Anticipar el carril según su destino, ceder el paso a los que ya están adentro, respetar las reglas para intersecciones.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuál es la función del carril de la derecha en una rotonda que tiene tres carriles de ingreso, dos de circulación interna y dos de salida?",
+    "respuestas": [
+      {
+        "texto": "Permite doblar hacia la derecha y continuar de frente",
+        "correcto": true
+      },
+      {
+        "texto": "Solamente doblar a la derecha",
+        "correcto": false
+      },
+      {
+        "texto": "Solamente continuar de frente",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuál es la función del carril del centro en una rotonda que tiene tres carriles de ingreso, dos de circulación interna y dos de salida?",
+    "respuestas": [
+      {
+        "texto": "Solamente doblar a la derecha",
+        "correcto": false
+      },
+      {
+        "texto": "Solamente doblar a la izquierda o retornar",
+        "correcto": true
+      },
+      {
+        "texto": "Solamente pasar de frente por la parte externa de la rotonda",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Cuál es la función del carril izquierdo en una rotonda que tiene tres carriles de ingreso, dos de circulación interna y dos de salida?",
+    "respuestas": [
+      {
+        "texto": "Solamente para girar a la izquierda",
+        "correcto": false
+      },
+      {
+        "texto": "Solamente para retornar, girar a la izquierda o pasar de frente",
+        "correcto": true
+      },
+      {
+        "texto": "Solamente para retornar",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿A qué velocidad se debe manejar en la noche?",
+    "respuestas": [
+      {
+        "texto": "A la velocidad que las luces le permiten ver y en ese espacio que detecta se pueda detener",
+        "correcto": true
+      },
+      {
+        "texto": "A la velocidad que las señales de tránsito le permitan",
+        "correcto": false
+      },
+      {
+        "texto": "A un treinta por ciento menos que la velocidad diurna.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué debo hacer en una carretera de noche si encuentro un auto en sentido contrario con luces altas?",
+    "respuestas": [
+      {
+        "texto": "Pedirle el cambio de luces y si no accede dejarle las luces altas",
+        "correcto": false
+      },
+      {
+        "texto": "Hacer el cambio de luces y continuar en mi carril",
+        "correcto": false
+      },
+      {
+        "texto": "Observar mi carril con la ayuda de las luces de él, bajar la velocidad y luces, mirar a la línea de borde",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Por qué se debe ser cauteloso al aventajar un vehículo articulado en la carretera cuando es de noche?",
+    "respuestas": [
+      {
+        "texto": "Porque no me dejara adelantarlo, a ellos les da pena ser adelantados",
+        "correcto": false
+      },
+      {
+        "texto": "Mis luces se le reflejan en su retrovisor externo y eso le afecta y mi visibilidad delantera es errática.",
+        "correcto": true
+      },
+      {
+        "texto": "Porque de noche los furgones caminan más rápido.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué precauciones debo tomar al adelantar una motocicleta?",
+    "respuestas": [
+      {
+        "texto": "Que mi velocidad sea superior a la de la motocicleta",
+        "correcto": false
+      },
+      {
+        "texto": "Las mismas que aplico cuando aventajo un vehículo de cuatro ruedas",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna las motos en la carretera siempre se apartan",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué es conductor desde el concepto de manejo defensivo?",
+    "respuestas": [
+      {
+        "texto": "Persona con la capacidad guiar un vehículo, sin ocasionar; infracciones, accidentes, descortesías, maltrato al vehículo o a los otros usuarios",
+        "correcto": true
+      },
+      {
+        "texto": "Persona natural autorizada mediante licencia a la conducción de vehículos según la categoría autorizada",
+        "correcto": false
+      },
+      {
+        "texto": "Persona que dice que nunca ha tenido un accidente a pesar de haber manejado tomado",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué efectos tiene la ingesta de alcohol en la persona, que le impiden conducir un vehículo?",
+    "respuestas": [
+      {
+        "texto": "Desinhibe la personalidad y le facilita el dominio",
+        "correcto": false
+      },
+      {
+        "texto": "La mayoría de las personas con experiencia toman y manejan y no les pasa nada",
+        "correcto": false
+      },
+      {
+        "texto": "Falsa sensación de confianza, visión y audición defectuosa, pérdida del sentido, error al juzgar las distancias, velocidades, etc.",
+        "correcto": true
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Qué se considera como situación adversa al conducir?",
+    "respuestas": [
+      {
+        "texto": "Lluvia, iluminación, neblina",
+        "correcto": true
+      },
+      {
+        "texto": "trafico excesivo, condiciones extremas de la vía",
+        "correcto": true
+      },
+      {
+        "texto": "condiciones físicas o sicológicas de la persona",
+        "correcto": true
+      },
+      {
+        "texto": "Todas las anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Por qué existe la siguiente infracción: Arto. 26, No. 24.-Conducir utilizando manualmente teléfonos móviles, o cualquier otro aparato…………………………………….. C$ 250.00?",
+    "respuestas": [
+      {
+        "texto": "Porque las autoridades son anticuadas, los jóvenes podemos hablar por teléfono y conducir",
+        "correcto": false
+      },
+      {
+        "texto": "El celular en la actualidad es el principal elemento de distracción en la conducción",
+        "correcto": true
+      },
+      {
+        "texto": "Si se usa “el manos libres” no es peligroso y se pueden hacer ambas cosas.",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Por qué se dice que la velocidad es uno de los principales factores de riesgo en la conducción?",
+    "respuestas": [
+      {
+        "texto": "Porque los límites permitidos están desactualizados de acuerdo a los autos de hoy",
+        "correcto": false
+      },
+      {
+        "texto": "A mayor velocidad, más distancia de frenado, mayor será el impacto, menos capacidad de respuesta",
+        "correcto": true
+      },
+      {
+        "texto": "Porque los automóviles son cada vez as rápidos pero las población no lo entiende",
+        "correcto": false
+      }
+    ]
+  },
+  {
+    "categoria": "2",
+    "pregunta": "¿Sabe usted qué hacer si se le estalla una llanta a alta velocidad?",
+    "respuestas": [
+      {
+        "texto": "Trabaje con el timón de acuerdo a la situación (llanta trasera o llanta delantera)",
+        "correcto": true
+      },
+      {
+        "texto": "Libera el pedal de aceleración, Pasa a una marcha más baja,",
+        "correcto": false
+      },
+      {
+        "texto": "Inicie a frenar gradualmente hasta detenerse, si es necesario salga de la vía",
+        "correcto": true
+      },
+      {
+        "texto": "Todas anteriores",
+        "correcto": true
+      },
+      {
+        "texto": "Ninguna de las anteriores",
+        "correcto": false
+      }
+    ]
+  }
+]

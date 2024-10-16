@@ -1,0 +1,268 @@
+[
+    {
+        "categoria": "6",
+        "pregunta": "¿En qué carril debe circular el transporte de carga, en vías de dos o más carriles con un mismo sentido de circulación?",
+        "respuestas": [
+            {"texto": "Carril izquierdo.", "correcto": false},
+            {"texto": "Carril derecho", "correcto": true},
+            {"texto": "En cualquier carril", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Desde qué carril de la rotonda debe realizar la maniobra de retorno, el conductor de un vehículo de carga?",
+        "respuestas": [
+            {"texto": "Desde el Carril del centro", "correcto": false},
+            {"texto": "Desde el Carril derecho", "correcto": true},
+            {"texto": "Desde el Carril izquierdo", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Qué carril debe usar el transporte pesado para seguir de frente en la rotonda de tres carriles?",
+        "respuestas": [
+            {"texto": "Carril central", "correcto": false},
+            {"texto": "Carril derecho", "correcto": true},
+            {"texto": "Carril izquierdo", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Quién tiene la preferencia en una intersección, cuando un vehículo va girar a la izquierda y en sentido contrario el otro sigue de frente?",
+        "respuestas": [
+            {"texto": "El vehículo que gira a la derecha", "correcto": false},
+            {"texto": "El vehículo que gira a la izquierda", "correcto": false},
+            {"texto": "El vehículo que continua de frente", "correcto": true}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Qué es Transporte de carga especializada?",
+        "respuestas": [
+            {"texto": "Vehículo que transportan arena", "correcto": false},
+            {"texto": "Vehículo que transporta madera", "correcto": false},
+            {"texto": "Vehículo que transportan gases y líquidos explosivos.", "correcto": true}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Cuál es la categoría en la licencia para conducir vehículos de 8 toneladas?",
+        "respuestas": [
+            {"texto": "Categoría 3", "correcto": false},
+            {"texto": "Categoría 4A", "correcto": true},
+            {"texto": "Categoría 6B", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Quién de los mencionados puede aventajar en pendientes?",
+        "respuestas": [
+            {"texto": "El vehículo que va subiendo.", "correcto": false},
+            {"texto": "El vehículo que va bajando", "correcto": true},
+            {"texto": "Nadie puede aventajar en pendiente", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Por qué los camiones de más de ocho toneladas necesitan más espacio para detenerse?",
+        "respuestas": [
+            {"texto": "Por el peso y la carga, sumado a la velocidad aumentan la distancia de frenado", "correcto": true},
+            {"texto": "Porque un camión tiene las llantas más grandes y eso ocasiona menos fricción", "correcto": false},
+            {"texto": "No es cierto eso dependerá de la velocidad", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Qué haría si descendiendo una pendiente, fallan los frenos del equipo?",
+        "respuestas": [
+            {"texto": "Avisar a los conductores con la bocina (pito).", "correcto": false},
+            {"texto": "Reducir velocidad al bajar los cambios", "correcto": true},
+            {"texto": "Si es necesario debo orillarme a un barranco para detenerme.", "correcto": false},
+            {"texto": "Todas son correctas.", "correcto": false},
+            {"texto": "Ninguna de las anteriores.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "La distancia de frenado de un vehículo de carga pesada con respecto a un vehículo liviano es:",
+        "respuestas": [
+            {"texto": "Más corta.", "correcto": false},
+            {"texto": "Más larga", "correcto": true},
+            {"texto": "Iguales.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿En qué lugar el transporte de carga pesada está autorizado a usar las luces altas?",
+        "respuestas": [
+            {"texto": "En carretera", "correcto": true},
+            {"texto": "Al llegar a un pueblo", "correcto": false},
+            {"texto": "Cualquiera", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Qué tipo de infracción se aplica al transporte de carga pesada que se estaciona en la carretera sin señales lumínicas adecuadas?",
+        "respuestas": [
+            {"texto": "Peligrosas", "correcto": false},
+            {"texto": "De mayor peligrosidad", "correcto": true},
+            {"texto": "Violaciones a las normas de admisión al tráfico.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Qué medidas de precaución debe adoptar el conductor de transporte de carga pesada al momento de retroceder?",
+        "respuestas": [
+            {"texto": "Encender luces de emergencias o parqueo", "correcto": true},
+            {"texto": "Auxiliarse con otra persona que lo dirija", "correcto": true},
+            {"texto": "Utilizar espejos retrovisores", "correcto": true},
+            {"texto": "Todas las anteriores", "correcto": true},
+            {"texto": "Ninguna de las anteriores", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Qué debe hacer el conductor de vehículo de carga al bajar una pendiente?",
+        "respuestas": [
+            {"texto": "Mantener la misma velocidad", "correcto": false},
+            {"texto": "Bajar la velocidad y reducir cambios", "correcto": true},
+            {"texto": "Ubicar en neutro el vehículo.", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿En qué circunstancias se debe tomar mayor precaución considerando la circulación de ciclistas o motorizados?",
+        "respuestas": [
+            {"texto": "Al momento de realizar maniobra de aventajamiento", "correcto": true},
+            {"texto": "Al momento de realizar giros", "correcto": true},
+            {"texto": "Al momento de estacionarse", "correcto": true},
+            {"texto": "Todas las anteriores", "correcto": true},
+            {"texto": "Ninguna de las anteriores", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Qué debo hacer, si observo a un abanderado indicando cruce de ganado en la vía?",
+        "respuestas": [
+            {"texto": "Continuar a la misma velocidad que traigo", "correcto": false},
+            {"texto": "Bajar la velocidad y sonar la bocina para apartar a los semovientes", "correcto": true},
+            {"texto": "Bajar la velocidad y detenerme si es necesario", "correcto": true}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿A qué velocidad se circula en zona poblada?",
+        "respuestas": [
+            {"texto": "30 km por hora", "correcto": false},
+            {"texto": "20 km por hora.", "correcto": false},
+            {"texto": "25 km por hora o lo que indique la señal", "correcto": true}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Qué verificaciones deben hacerse en vehículos de transporte pesado al encenderlo?",
+        "respuestas": [
+            {"texto": "Verificar los indicadores de presión de aceite, voltímetro, temperatura,", "correcto": true},
+            {"texto": "Verificar la temperatura del aceite , de presión de aire, tacómetro", "correcto": true},
+            {"texto": "Verificar los indicadores de luces y sistemas hidráulicos", "correcto": true},
+            {"texto": "Todas las anteriores.", "correcto": true},
+            {"texto": "Ninguna de las anteriores", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Qué controles se deben revisar en el vehículo de carga para tener garantía de un viaje seguro?",
+        "respuestas": [
+            {"texto": "Pedal del freno (del pie), Freno de estacionamiento, Control de retardador (freno de motor).", "correcto": true},
+            {"texto": "Luces delanteras, direccionales, intermitentes de destellos, laterales, delcos, indicadores de luces en el tablero.", "correcto": true},
+            {"texto": "Condición de ruedas y rines, argollas, travesaños, abrazaderas, cualquier otra señal de mal alineación", "correcto": true},
+            {"texto": "Todas las anteriores", "correcto": true},
+            {"texto": "Ninguna de las anteriores", "correcto": false}
+        ]
+    },
+    {
+        "categoria": "6",
+        "pregunta": "¿Qué equipos de emergencia se recomienda tener en los camiones más grandes?",
+        "respuestas": [
+            {"texto": "Repuestos de fusibles eléctricos, triángulos reflectores rojos", "correcto": true},
+            {"texto": "Extinguidor de incendio correctamente cargado y clasificado", "correcto": true},
+            {"texto": "Botiquín de emergencia y kit de herramientas básicas", "correcto": true},
+            {"texto": "Todos son importantes", "correcto": true},
+            {"texto": "Ninguna de las anteriores", "correcto": false}
+        ]
+    },
+    {
+            "categoria": "6",
+            "pregunta": "¿Qué categorías en la licencia reconocen a los conductores habilitados para transporte de carga?",
+            "respuestas": [
+                {"texto": "Categoría 4 A, 5 A, 6 A.7", "correcto": false},
+                {"texto": "Categoría 6 B, 4 B", "correcto": true},
+                {"texto": "Categoría 8", "correcto": false}
+            ]
+        },
+        {
+            "categoria": "6",
+            "pregunta": "¿Cuál es límite de velocidad máxima que se recomienda para el trasporte de carga?",
+            "respuestas": [
+                {"texto": "Los límites de velocidad establecidos en la Ley.", "correcto": true},
+                {"texto": "Los límites que establecen las señales de transito", "correcto": false},
+                {"texto": "Los limites que el fabricante recomienda", "correcto": false}
+            ]
+        },
+        {
+            "categoria": "6",
+            "pregunta": "¿Según la ley en que horario deben permanecer encendidas las luces?",
+            "respuestas": [
+                {"texto": "De las 6:00 pm a las 6 am y/o las condiciones lo ameriten", "correcto": true},
+                {"texto": "De las 5:00 pm a las 5:am", "correcto": false},
+                {"texto": "De las 6:00 am, a las 6:00 pm", "correcto": false}
+            ]
+        },
+        {
+            "categoria": "6",
+            "pregunta": "¿Cuáles de estas tres reglas de manejo defensivo se le sugieren a los conductores de equipo de carga?",
+            "respuestas": [
+                {"texto": "Ser prudente, razonable y no subir pasajeros", "correcto": false},
+                {"texto": "Espacio para el vehículo, visibilidad para el conductor, tiempo para decidir y reaccionar.", "correcto": true},
+                {"texto": "Manejar como adulto, saber lo que harás y frenar siempre.", "correcto": false}
+            ]
+        },
+        {
+            "categoria": "6",
+            "pregunta": "¿Qué debo entender como conductor profesional cuando se dice en manejo defensivo, mantenga una visión periférica?",
+            "respuestas": [
+                {"texto": "Ver adelante, alrededor, a los lados , hacia los espejos", "correcto": true},
+                {"texto": "No ver los espejos porque me distraigo", "correcto": false},
+                {"texto": "Captar sólo la información lateral", "correcto": false}
+            ]
+        },
+        {
+            "categoria": "6",
+            "pregunta": "¿Qué información visual de la vía, se debe priorizar cuando se conduce un equipo pesado?",
+            "respuestas": [
+                {"texto": "Peatones, vehículos cercanos, señales, obstáculos", "correcto": true},
+                {"texto": "Señales y dispositivos de tránsito", "correcto": false},
+                {"texto": "Motocicletas, bicicletas y carretones.", "correcto": false},
+                {"texto": "Todas las anteriores", "correcto": true},
+                {"texto": "Ninguna de las anteriores", "correcto": false}
+            ]
+        },
+        {
+            "categoria": "6",
+            "pregunta": "¿Qué tipo de carga es más peligrosa por su comportamiento al ser transportadas?",
+            "respuestas": [
+                {"texto": "Arena, piedras canteras, piedrín", "correcto": false},
+                {"texto": "Ganado, personas y cargas liquidas", "correcto": true},
+                {"texto": "Mudanzas, material de construcción.", "correcto": false}
+            ]
+        },
+        {
+            "categoria": "6",
+            "pregunta": "¿Cómo puedo identificar rápidamente una falla en una llanta cuando me desplazo en un equipo pesado?",
+            "respuestas": [
+                {"texto": "El indicador en el tablero me avisa", "correcto": false},
+                {"texto": "La experiencia de los camioneros es la clave", "correcto": false},
+                {"texto": "Sonido, Vibración, Sensación en la dirección, se siente anormal", "correcto": true}
+            ]
+        }    
+]
